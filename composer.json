@@ -47,7 +47,9 @@
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
-    "laravel/pint": "^1.18"
+    "laravel/pint": "^1.18",
+    "phpunit/phpunit": "^12.4",
+    "wp-phpunit/wp-phpunit": "^6.8"
   },
   "config": {
     "optimize-autoloader": true,
