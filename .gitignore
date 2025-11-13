@@ -1,6 +1,7 @@
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
+!web/app/plugins/usctdp-mgmt
 web/app/mu-plugins/*/
 web/app/themes/twentytwentyfive/
 web/app/upgrade
