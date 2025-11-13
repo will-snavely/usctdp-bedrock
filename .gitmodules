@@ -1,3 +1,6 @@
 [submodule "web/app/plugins/usctdp-mgmt"]
 	path = web/app/plugins/usctdp-mgmt
 	url = git@github.com:will-snavely/usctdp-mgmt.git
+[submodule "web/app/themes/usctdp-theme"]
+	path = web/app/themes/usctdp-theme
+	url = git@github.com:will-snavely/usctdp-theme.git
