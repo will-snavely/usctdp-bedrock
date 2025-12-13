@@ -28,6 +28,10 @@
       "type": "composer",
       "url": "https://wpackagist.org",
       "only": ["wpackagist-plugin/*", "wpackagist-theme/*"]
+    },
+    {
+        "type": "path",
+        "url": "web/app/plugins/usctdp-mgmt"
     }
   ],
   "require": {
@@ -43,7 +47,8 @@
     "wpackagist-theme/twentytwentyfive": "^1.0",
     "wpackagist-plugin/advanced-custom-fields": "^6.4",
     "wpackagist-plugin/woocommerce":"10.3.0",
-    "generoi/sage-woocommerce": "^1.1"
+    "generoi/sage-woocommerce": "^1.1",
+    "hcd/usctdp-mgmt": "@dev"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
