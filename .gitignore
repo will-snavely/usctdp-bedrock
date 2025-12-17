@@ -28,5 +28,4 @@ auth.json
 # WP-CLI
 wp-cli.local.yml
 
-test_data/*
 google_auth.json

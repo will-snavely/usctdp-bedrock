@@ -1,0 +1,445 @@
+{
+  "sessions": [
+    {
+      "session_name": "Session I",
+      "length_weeks": 6,
+      "start_date": "2026-08-25T04:00:00.000Z",
+      "end_date": "2026-10-05T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "session_name": "Session II",
+      "length_weeks": 9,
+      "start_date": "2026-10-13T04:00:00.000Z",
+      "end_date": "2026-12-21T05:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "session_name": "Session III",
+      "length_weeks": 8,
+      "start_date": "2027-01-05T05:00:00.000Z",
+      "end_date": "2027-03-01T05:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "session_name": "Session IV",
+      "length_weeks": 7,
+      "start_date": "2027-03-02T05:00:00.000Z",
+      "end_date": "2027-04-26T04:00:00.000Z",
+      "notes": ""
+    }
+  ],
+  "courses": [
+    {
+      "course_name": "Tiny Tots",
+      "age_group": "Junior",
+      "age_range": "4 and up",
+      "short_description": "Must BE POTTY TRAINED",
+      "description": "This child class is the perfect introductory tennis class for youngsters. It promotes early development of both cognitive and motor skills while performing basic tennis hand/eye coordination games and exercises. Must be able to stay without a parent."
+    },
+    {
+      "course_name": "Red Pre-Rally Player",
+      "age_group": "Junior",
+      "age_range": "5 and up",
+      "short_description": "Someone who is brand new to tennis class",
+      "description": "In this class, children learn through play while having fun on 36’ court with red balls. Students will begin to learn the fundamentals of strokes and grips, as well as familiarizing themselves with the court. Basic rally skills will be developed along with movement, balance, and coordination. In addition, students will learn basic strategy and scoring."
+    },
+    {
+      "course_name": "Red Player",
+      "age_group": "Junior",
+      "age_range": "5 and up",
+      "short_description": "Players have tested out of the Pre Rally Player class",
+      "description": "This class is played on a 36’ court while using a red ball. Students in this class have tested out of Pre Rally Player and have the ability to sustain a rally. In this class there is emphasis on shaping the strokes as well as learning different types of spins. The overhead serve is introduced, rally tactics and strategy are learned and directional control of the ball will be emphasized. Students are also encouraged to compete in tournaments."
+    },
+    {
+      "course_name": "Orange Pre-Rally Player",
+      "age_group": "Junior",
+      "age_range": "8 and up",
+      "short_description": "Someone who is brand new to tennis or returning player",
+      "description": "Orange is the platform of ROGY at USCTDP. This clinic is designed for the new and returning tennis. The Orange platform is played on a 60’ tennis court that uses a low 50% compression tennis ball. Movement, balance, receiving/sending skills, and stroke production are emphasized along with basic rallying skills."
+    },
+    {
+      "course_name": "TEEN 1",
+      "age_group": "Junior",
+      "age_range": "12 - 17",
+      "short_description": "Beginner or Advanced Beginner ( Green and Yellow Balls)",
+      "description": "The Teen 1 program is for teenagers who are relatively new to tennis. Learn to rally and play is the theme of each class. The students will be exposed to all the basic skills of tennis including groundstrokes, volleys, overheads and serves. The class will stress cooperation and competition in many of the drills and play situations."
+    }
+  ],
+  "pricing": [
+    {
+      "course": "Tiny Tots",
+      "session": "Session I",
+      "duration": " 6 Weeks",
+      "1_day_price": 124,
+      "2_day_price": 228
+    },
+    {
+      "course": "Tiny Tots",
+      "session": "Session II",
+      "duration": " 9 Weeks",
+      "1_day_price": 186,
+      "2_day_price": 352
+    },
+    {
+      "course": "Tiny Tots",
+      "session": "Session III",
+      "duration": " 8 Weeks",
+      "1_day_price": 166,
+      "2_day_price": 312
+    },
+    {
+      "course": "Tiny Tots",
+      "session": "Session IV",
+      "duration": " 7 Weeks",
+      "1_day_price": 145,
+      "2_day_price": 270
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "session": "Session I",
+      "duration": " 6 Weeks",
+      "1_day_price": 146,
+      "2_day_price": 272
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "session": "Session II",
+      "duration": " 9 Weeks",
+      "1_day_price": 218,
+      "2_day_price": 416
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "session": "Session III",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "session": "Session IV",
+      "duration": " 7 Weeks",
+      "1_day_price": 170,
+      "2_day_price": 320
+    },
+    {
+      "course": "Red Player",
+      "session": "Session I",
+      "duration": " 6 Weeks",
+      "1_day_price": 146,
+      "2_day_price": 272
+    },
+    {
+      "course": "Red Player",
+      "session": "Session II",
+      "duration": " 9 Weeks",
+      "1_day_price": 218,
+      "2_day_price": 416
+    },
+    {
+      "course": "Red Player",
+      "session": "Session III",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368
+    },
+    {
+      "course": "Red Player",
+      "session": "Session IV",
+      "duration": " 7 Weeks",
+      "1_day_price": 170,
+      "2_day_price": 320
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "session": "Session I",
+      "duration": " 6 Weeks",
+      "1_day_price": 146,
+      "2_day_price": 272
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "session": "Session II",
+      "duration": " 9 Weeks",
+      "1_day_price": 218,
+      "2_day_price": 416
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "session": "Session III",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "session": "Session IV",
+      "duration": " 7 Weeks",
+      "1_day_price": 170,
+      "2_day_price": 320
+    },
+    {
+      "course": "TEEN 1",
+      "session": "Session I",
+      "duration": " 6 Weeks",
+      "1_day_price": 146,
+      "2_day_price": 272
+    },
+    {
+      "course": "TEEN 1",
+      "session": "Session II",
+      "duration": " 9 Weeks",
+      "1_day_price": 218,
+      "2_day_price": 416
+    },
+    {
+      "course": "TEEN 1",
+      "session": "Session III",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368
+    },
+    {
+      "course": "TEEN 1",
+      "session": "Session IV",
+      "duration": " 7 Weeks",
+      "1_day_price": 170,
+      "2_day_price": 320
+    }
+  ],
+  "classes": [
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:15:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T15:00:00.000Z",
+      "end_time": "1899-12-30T15:45:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T18:45:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:15:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-30T23:45:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T16:00:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z"
+    },
+    {
+      "course": "Tiny Tots",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T17:45:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T16:00:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z"
+    },
+    {
+      "course": "Red Pre-Rally Player",
+      "level": 1.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T16:00:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T18:00:00.000Z"
+    },
+    {
+      "course": "Red Player",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:30:00.000Z",
+      "end_time": "1899-12-30T21:30:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T16:00:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z"
+    },
+    {
+      "course": "Orange Pre-Rally Player",
+      "level": 2.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z"
+    },
+    {
+      "course": "TEEN 1",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z"
+    },
+    {
+      "course": "TEEN 1",
+      "level": 3,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-31T00:00:00.000Z",
+      "end_time": "1899-12-31T01:00:00.000Z"
+    },
+    {
+      "course": "TEEN 1",
+      "level": 3,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z"
+    }
+  ]
+}
