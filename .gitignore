@@ -29,3 +29,5 @@ auth.json
 wp-cli.local.yml
 
 google_auth.json
+
+test_data/access_export/*
