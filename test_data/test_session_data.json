@@ -1,445 +1,1358 @@
 {
-  "sessions": [
+  "clinic_sessions": [
     {
-      "session_name": "Session I",
+      "name": "Session I",
+      "category": "Junior Beginner",
       "length_weeks": 6,
-      "start_date": "2026-08-25T04:00:00.000Z",
-      "end_date": "2026-10-05T04:00:00.000Z",
+      "start_date": "2025-08-25T04:00:00.000Z",
+      "end_date": "2025-10-05T04:00:00.000Z",
       "notes": ""
     },
     {
-      "session_name": "Session II",
+      "name": "Session II - Junior Beginner",
+      "category": "Junior Beginner",
       "length_weeks": 9,
-      "start_date": "2026-10-13T04:00:00.000Z",
-      "end_date": "2026-12-21T05:00:00.000Z",
+      "start_date": "2025-10-13T04:00:00.000Z",
+      "end_date": "2025-12-21T05:00:00.000Z",
       "notes": ""
     },
     {
-      "session_name": "Session III",
+      "name": "Session III - Junior Beginner",
+      "category": "Junior Beginner",
       "length_weeks": 8,
-      "start_date": "2027-01-05T05:00:00.000Z",
-      "end_date": "2027-03-01T05:00:00.000Z",
+      "start_date": "2026-01-05T05:00:00.000Z",
+      "end_date": "2026-03-01T05:00:00.000Z",
       "notes": ""
     },
     {
-      "session_name": "Session IV",
+      "name": "Session IV - Junior Beginner",
+      "category": "Junior Beginner",
       "length_weeks": 7,
-      "start_date": "2027-03-02T05:00:00.000Z",
-      "end_date": "2027-04-26T04:00:00.000Z",
+      "start_date": "2026-03-02T05:00:00.000Z",
+      "end_date": "2026-04-26T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session A - Junior Advanced",
+      "category": "Junior Advanced",
+      "length_weeks": 6,
+      "start_date": "2025-08-25T04:00:00.000Z",
+      "end_date": "2025-10-05T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session B - Junior Advanced",
+      "category": "Junior Advanced",
+      "length_weeks": 12,
+      "start_date": "2025-10-13T04:00:00.000Z",
+      "end_date": "2026-01-25T05:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session C - Junior Advanced",
+      "category": "Junior Advanced",
+      "length_weeks": 12,
+      "start_date": "2026-01-26T05:00:00.000Z",
+      "end_date": "2026-04-26T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session I - Adult",
+      "category": "Adult",
+      "length_weeks": 6,
+      "start_date": "2025-08-25T04:00:00.000Z",
+      "end_date": "2025-10-05T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session II - Adult",
+      "category": "Adult",
+      "length_weeks": 9,
+      "start_date": "2025-10-13T04:00:00.000Z",
+      "end_date": "2025-12-21T05:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session III - Adult",
+      "category": "Adult",
+      "length_weeks": 8,
+      "start_date": "2026-01-05T05:00:00.000Z",
+      "end_date": "2026-03-01T05:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Session IV - Adult",
+      "category": "Adult",
+      "length_weeks": 7,
+      "start_date": "2026-03-02T05:00:00.000Z",
+      "end_date": "2026-04-26T04:00:00.000Z",
       "notes": ""
     }
   ],
-  "courses": [
+  "clinics": [
     {
-      "course_name": "Tiny Tots",
+      "name": "Tiny Tots",
       "age_group": "Junior",
       "age_range": "4 and up",
-      "short_description": "Must BE POTTY TRAINED",
-      "description": "This child class is the perfect introductory tennis class for youngsters. It promotes early development of both cognitive and motor skills while performing basic tennis hand/eye coordination games and exercises. Must be able to stay without a parent."
+      "session_category": "Junior Beginner"
     },
     {
-      "course_name": "Red Pre-Rally Player",
+      "name": "Red Pre-Rally Player",
       "age_group": "Junior",
       "age_range": "5 and up",
-      "short_description": "Someone who is brand new to tennis class",
-      "description": "In this class, children learn through play while having fun on 36’ court with red balls. Students will begin to learn the fundamentals of strokes and grips, as well as familiarizing themselves with the court. Basic rally skills will be developed along with movement, balance, and coordination. In addition, students will learn basic strategy and scoring."
+      "session_category": "Junior Beginner"
     },
     {
-      "course_name": "Red Player",
+      "name": "Red Player",
       "age_group": "Junior",
       "age_range": "5 and up",
-      "short_description": "Players have tested out of the Pre Rally Player class",
-      "description": "This class is played on a 36’ court while using a red ball. Students in this class have tested out of Pre Rally Player and have the ability to sustain a rally. In this class there is emphasis on shaping the strokes as well as learning different types of spins. The overhead serve is introduced, rally tactics and strategy are learned and directional control of the ball will be emphasized. Students are also encouraged to compete in tournaments."
+      "session_category": "Junior Beginner"
     },
     {
-      "course_name": "Orange Pre-Rally Player",
+      "name": "Orange Pre-Rally Player",
       "age_group": "Junior",
       "age_range": "8 and up",
-      "short_description": "Someone who is brand new to tennis or returning player",
-      "description": "Orange is the platform of ROGY at USCTDP. This clinic is designed for the new and returning tennis. The Orange platform is played on a 60’ tennis court that uses a low 50% compression tennis ball. Movement, balance, receiving/sending skills, and stroke production are emphasized along with basic rallying skills."
+      "session_category": "Junior Beginner"
     },
     {
-      "course_name": "TEEN 1",
+      "name": "TEEN 1",
       "age_group": "Junior",
       "age_range": "12 - 17",
-      "short_description": "Beginner or Advanced Beginner ( Green and Yellow Balls)",
-      "description": "The Teen 1 program is for teenagers who are relatively new to tennis. Learn to rally and play is the theme of each class. The students will be exposed to all the basic skills of tennis including groundstrokes, volleys, overheads and serves. The class will stress cooperation and competition in many of the drills and play situations."
+      "session_category": "Junior Beginner"
+    },
+    {
+      "name": "Orange 2",
+      "age_group": "Junior",
+      "age_range": "12 - 17",
+      "session_category": "Junior Advanced"
+    },
+    {
+      "name": "Green Player ",
+      "age_group": "Junior",
+      "age_range": "12 - 17",
+      "session_category": "Junior Advanced"
+    },
+    {
+      "name": "Yellow Ball",
+      "age_group": "Junior",
+      "age_range": "12 - 17",
+      "session_category": "Junior Advanced"
+    },
+    {
+      "name": "Yellow Ball Open",
+      "age_group": "Junior",
+      "age_range": "12 - 17",
+      "session_category": "Junior Advanced"
+    },
+    {
+      "name": "Adult Level 1",
+      "age_group": "Adult",
+      "age_range": "18+",
+      "session_category": "Adult"
+    },
+    {
+      "name": "Adult Level 2",
+      "age_group": "Adult",
+      "age_range": "18+",
+      "session_category": "Adult"
+    },
+    {
+      "name": "Adult Level 3",
+      "age_group": "Adult",
+      "age_range": "18+",
+      "session_category": "Adult"
+    },
+    {
+      "name": "Adult Level 4",
+      "age_group": "Adult",
+      "age_range": "18+",
+      "session_category": "Adult"
+    },
+    {
+      "name": "Adult Cardio",
+      "age_group": "Adult",
+      "age_range": "18+",
+      "session_category": "Adult"
     }
   ],
-  "pricing": [
+  "clinic_pricing": [
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "session": "Session I",
       "duration": " 6 Weeks",
       "1_day_price": 124,
-      "2_day_price": 228
+      "2_day_price": 228,
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
-      "session": "Session II",
+      "clinic": "Tiny Tots",
+      "session": "Session II - Junior Beginner",
       "duration": " 9 Weeks",
       "1_day_price": 186,
-      "2_day_price": 352
+      "2_day_price": 352,
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
-      "session": "Session III",
+      "clinic": "Tiny Tots",
+      "session": "Session III - Junior Beginner",
       "duration": " 8 Weeks",
       "1_day_price": 166,
-      "2_day_price": 312
+      "2_day_price": 312,
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
-      "session": "Session IV",
+      "clinic": "Tiny Tots",
+      "session": "Session IV - Junior Beginner",
       "duration": " 7 Weeks",
       "1_day_price": 145,
-      "2_day_price": 270
+      "2_day_price": 270,
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "session": "Session I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
-      "2_day_price": 272
+      "2_day_price": 272,
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
-      "session": "Session II",
+      "clinic": "Red Pre-Rally Player",
+      "session": "Session II - Junior Beginner",
       "duration": " 9 Weeks",
       "1_day_price": 218,
-      "2_day_price": 416
+      "2_day_price": 416,
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
-      "session": "Session III",
+      "clinic": "Red Pre-Rally Player",
+      "session": "Session III - Junior Beginner",
       "duration": " 8 Weeks",
       "1_day_price": 194,
-      "2_day_price": 368
+      "2_day_price": 368,
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
-      "session": "Session IV",
+      "clinic": "Red Pre-Rally Player",
+      "session": "Session IV - Junior Beginner",
       "duration": " 7 Weeks",
       "1_day_price": 170,
-      "2_day_price": 320
+      "2_day_price": 320,
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "session": "Session I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
-      "2_day_price": 272
+      "2_day_price": 272,
+      "notes": ""
     },
     {
-      "course": "Red Player",
-      "session": "Session II",
+      "clinic": "Red Player",
+      "session": "Session II - Junior Beginner",
       "duration": " 9 Weeks",
       "1_day_price": 218,
-      "2_day_price": 416
+      "2_day_price": 416,
+      "notes": ""
     },
     {
-      "course": "Red Player",
-      "session": "Session III",
+      "clinic": "Red Player",
+      "session": "Session III - Junior Beginner",
       "duration": " 8 Weeks",
       "1_day_price": 194,
-      "2_day_price": 368
+      "2_day_price": 368,
+      "notes": ""
     },
     {
-      "course": "Red Player",
-      "session": "Session IV",
+      "clinic": "Red Player",
+      "session": "Session IV - Junior Beginner",
       "duration": " 7 Weeks",
       "1_day_price": 170,
-      "2_day_price": 320
+      "2_day_price": 320,
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "session": "Session I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
-      "2_day_price": 272
+      "2_day_price": 272,
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
-      "session": "Session II",
+      "clinic": "Orange Pre-Rally Player",
+      "session": "Session II - Junior Beginner",
       "duration": " 9 Weeks",
       "1_day_price": 218,
-      "2_day_price": 416
+      "2_day_price": 416,
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
-      "session": "Session III",
+      "clinic": "Orange Pre-Rally Player",
+      "session": "Session III - Junior Beginner",
       "duration": " 8 Weeks",
       "1_day_price": 194,
-      "2_day_price": 368
+      "2_day_price": 368,
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
-      "session": "Session IV",
+      "clinic": "Orange Pre-Rally Player",
+      "session": "Session IV - Junior Beginner",
       "duration": " 7 Weeks",
       "1_day_price": 170,
-      "2_day_price": 320
+      "2_day_price": 320,
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
+      "clinic": "TEEN 1",
       "session": "Session I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
-      "2_day_price": 272
+      "2_day_price": 272,
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
-      "session": "Session II",
+      "clinic": "TEEN 1",
+      "session": "Session II - Junior Beginner",
       "duration": " 9 Weeks",
       "1_day_price": 218,
-      "2_day_price": 416
+      "2_day_price": 416,
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
-      "session": "Session III",
+      "clinic": "TEEN 1",
+      "session": "Session III - Junior Beginner",
       "duration": " 8 Weeks",
       "1_day_price": 194,
-      "2_day_price": 368
+      "2_day_price": 368,
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
-      "session": "Session IV",
+      "clinic": "TEEN 1",
+      "session": "Session IV - Junior Beginner",
       "duration": " 7 Weeks",
       "1_day_price": 170,
-      "2_day_price": 320
+      "2_day_price": 320,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "session": "Session A - Junior Advanced",
+      "duration": " 6 Weeks",
+      "1_day_price": 222,
+      "2_day_price": 424,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "session": "Session B - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 444,
+      "2_day_price": 888,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "session": "Session C - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 444,
+      "2_day_price": 888,
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "session": "Session A - Junior Advanced",
+      "duration": " 6 Weeks",
+      "1_day_price": 288,
+      "2_day_price": 556,
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "session": "Session B - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "session": "Session C - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "session": "Session A - Junior Advanced",
+      "duration": " 6 Weeks",
+      "1_day_price": 288,
+      "2_day_price": 556,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "session": "Session B - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "session": "Session C - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "session": "Session A - Junior Advanced",
+      "duration": " 6 Weeks",
+      "1_day_price": 288,
+      "2_day_price": 556,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "session": "Session B - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "session": "Session C - Junior Advanced",
+      "duration": " 12 Weeks",
+      "1_day_price": 576,
+      "2_day_price": 1132,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Session I - Adult",
+      "duration": " 6 Weeks",
+      "1_day_price": 198,
+      "2_day_price": 376,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Session II - Adult",
+      "duration": " 9 Weeks",
+      "1_day_price": 297,
+      "2_day_price": 574,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Session III - Adult",
+      "duration": " 8 Weeks",
+      "1_day_price": 264,
+      "2_day_price": 508,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Session IV - Adult",
+      "duration": " 7 Weeks",
+      "1_day_price": 231,
+      "2_day_price": 442,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Session I - Adult",
+      "duration": " 6 Weeks",
+      "1_day_price": 198,
+      "2_day_price": 376,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Session II - Adult",
+      "duration": " 9 Weeks",
+      "1_day_price": 297,
+      "2_day_price": 574,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Session III - Adult",
+      "duration": " 8 Weeks",
+      "1_day_price": 264,
+      "2_day_price": 508,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Session IV - Adult",
+      "duration": " 7 Weeks",
+      "1_day_price": 231,
+      "2_day_price": 442,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Session I - Adult",
+      "duration": " 6 Weeks",
+      "1_day_price": 198,
+      "2_day_price": 376,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Session II - Adult",
+      "duration": " 9 Weeks",
+      "1_day_price": 297,
+      "2_day_price": 574,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Session III - Adult",
+      "duration": " 8 Weeks",
+      "1_day_price": 264,
+      "2_day_price": 508,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Session IV - Adult",
+      "duration": " 7 Weeks",
+      "1_day_price": 231,
+      "2_day_price": 442,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Session I - Adult",
+      "duration": " 6 Weeks",
+      "1_day_price": 198,
+      "2_day_price": 376,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Session II - Adult",
+      "duration": " 9 Weeks",
+      "1_day_price": 297,
+      "2_day_price": 574,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Session III - Adult",
+      "duration": " 8 Weeks",
+      "1_day_price": 264,
+      "2_day_price": 508,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Session IV - Adult",
+      "duration": " 7 Weeks",
+      "1_day_price": 231,
+      "2_day_price": 442,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Session I - Adult",
+      "duration": "6 weeks",
+      "1_day_price": 180,
+      "2_day_price": 340,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Session II - Adult",
+      "duration": " 9 Weeks",
+      "1_day_price": 270,
+      "2_day_price": 520,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Session III - Adult",
+      "duration": " 8 Weeks",
+      "1_day_price": 240,
+      "2_day_price": 460,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Session IV - Adult",
+      "duration": " 7 Weeks",
+      "1_day_price": 210,
+      "2_day_price": 400,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Session I - Adult",
+      "duration": " 5 Weeks",
+      "1_day_price": 150,
+      "2_day_price": "",
+      "notes": "Monday only"
     }
   ],
-  "classes": [
+  "clinic_classes": [
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:15:00.000Z"
+      "end_time": "1899-12-30T21:15:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
       "start_time": "1899-12-30T15:00:00.000Z",
-      "end_time": "1899-12-30T15:45:00.000Z"
+      "end_time": "1899-12-30T15:45:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
       "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T18:45:00.000Z"
+      "end_time": "1899-12-30T18:45:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:15:00.000Z"
+      "end_time": "1899-12-30T21:15:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-30T23:45:00.000Z"
+      "end_time": "1899-12-30T23:45:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z"
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Tiny Tots",
+      "clinic": "Tiny Tots",
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T17:45:00.000Z"
+      "end_time": "1899-12-30T17:45:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z"
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally Player",
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z"
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z"
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T18:00:00.000Z"
+      "end_time": "1899-12-30T18:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Red Player",
+      "clinic": "Red Player",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z"
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z"
+      "end_time": "1899-12-30T21:30:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z"
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally Player",
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z"
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
+      "clinic": "TEEN 1",
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
       "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z"
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
+      "clinic": "TEEN 1",
       "level": 3,
       "day": "Friday",
       "capacity": 10,
       "start_time": "1899-12-31T00:00:00.000Z",
-      "end_time": "1899-12-31T01:00:00.000Z"
+      "end_time": "1899-12-31T01:00:00.000Z",
+      "notes": ""
     },
     {
-      "course": "TEEN 1",
+      "clinic": "TEEN 1",
       "level": 3,
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z"
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "level": 3.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T21:30:00.000Z",
+      "end_time": "1899-12-30T23:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "level": 3.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T21:30:00.000Z",
+      "end_time": "1899-12-30T23:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "level": 3.5,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "1899-12-30T19:00:00.000Z",
+      "end_time": "1899-12-30T20:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "level": 3.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T18:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "level": 4,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "level": 4,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Player ",
+      "level": 4,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:30:00.000Z",
+      "end_time": "1899-12-30T20:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "level": 4.5,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T20:00:00.000Z",
+      "end_time": "1899-12-30T22:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T22:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "level": 4.5,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:00:00.000Z",
+      "end_time": "1899-12-30T18:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T16:00:00.000Z",
+      "end_time": "1899-12-30T17:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:00:00.000Z",
+      "end_time": "1899-12-30T15:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:30:00.000Z",
+      "end_time": "1899-12-30T16:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T15:30:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "level": 2,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T15:30:00.000Z",
+      "end_time": "1899-12-30T17:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "level": 2,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:00:00.000Z",
+      "end_time": "1899-12-30T15:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "level": 2,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-31T01:00:00.000Z",
+      "end_time": "1899-12-31T02:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-31T01:00:00.000Z",
+      "end_time": "1899-12-31T02:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-31T02:00:00.000Z",
+      "end_time": "1899-12-31T03:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T18:00:00.000Z",
+      "end_time": "1899-12-30T19:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "level": 3,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-31T00:00:00.000Z",
+      "end_time": "1899-12-31T01:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "level": 3,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:30:00.000Z",
+      "end_time": "1899-12-30T16:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "level": 4,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T17:30:00.000Z",
+      "end_time": "1899-12-30T19:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "level": 4,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-31T01:00:00.000Z",
+      "end_time": "1899-12-31T02:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "level": 4,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-31T01:00:00.000Z",
+      "end_time": "1899-12-31T02:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "level": 4,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1899-12-30T19:00:00.000Z",
+      "end_time": "1899-12-30T20:30:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:00:00.000Z",
+      "end_time": "1899-12-30T15:00:00.000Z",
+      "notes": "5 weeks only"
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": "5 weeks only"
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T23:00:00.000Z",
+      "end_time": "1899-12-31T00:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "1899-12-30T15:00:00.000Z",
+      "end_time": "1899-12-30T16:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T14:00:00.000Z",
+      "end_time": "1899-12-30T15:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "1899-12-30T15:00:00.000Z",
+      "end_time": "1899-12-30T16:00:00.000Z",
+      "notes": ""
+    }
+  ],
+  "tournaments": [
+    {
+      "name": "Adult Singles Round Robin - Fall",
+      "age_group": "Junior",
+      "start_date": "2025-11-10T05:00:00.000Z",
+      "start_date_addtl": "2025-11-11T05:00:00.000Z",
+      "registration_deadline": "2025-10-27T04:00:00.000Z",
+      "early_registration_deadline": "",
+      "price": 155,
+      "early_registration_price": "",
+      "clinic_fee": "",
+      "notes": ""
+    },
+    {
+      "name": "Adult Singles Round Robin - Winter",
+      "age_group": "Junior",
+      "start_date": "2026-02-23T05:00:00.000Z",
+      "start_date_addtl": "2026-02-24T05:00:00.000Z",
+      "registration_deadline": "2026-02-02T05:00:00.000Z",
+      "early_registration_deadline": "",
+      "price": 155,
+      "early_registration_price": "",
+      "clinic_fee": "",
+      "notes": ""
+    },
+    {
+      "name": "Junior Singles Round Robin - Fall",
+      "age_group": "Adult",
+      "start_date": "2025-11-01T04:00:00.000Z",
+      "start_date_addtl": "2025-11-02T04:00:00.000Z",
+      "registration_deadline": "2026-11-03T05:00:00.000Z",
+      "early_registration_deadline": "2025-10-20T04:00:00.000Z",
+      "price": 155,
+      "early_registration_price": 150,
+      "clinic_fee": 145,
+      "notes": ""
+    },
+    {
+      "name": "Junior World Teams Round Robin - Winter",
+      "age_group": "Adult",
+      "start_date": "2026-02-14T05:00:00.000Z",
+      "start_date_addtl": "2026-02-15T05:00:00.000Z",
+      "registration_deadline": "2026-02-16T05:00:00.000Z",
+      "early_registration_deadline": "2026-02-02T05:00:00.000Z",
+      "price": 175,
+      "early_registration_price": 170,
+      "clinic_fee": 165,
+      "notes": ""
     }
   ]
 }
