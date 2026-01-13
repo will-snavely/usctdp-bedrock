@@ -57,7 +57,8 @@
     "wpackagist-plugin/woocommerce": "10.3.0",
     "generoi/sage-woocommerce": "^1.1",
     "hcd/usctdp-mgmt": "@dev",
-    "berlindb/core": "^2.0"
+    "berlindb/core": "^2.0",
+    "phpoffice/phpword": "^1.1"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
