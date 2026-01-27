@@ -1,8 +1,80 @@
 {
-  "clinic_sessions": [
+  "clinics": [
+    {
+      "name": "Tiny Tots",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Red Pre-Rally",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Red Ball",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Orange Pre-Rally",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "TEEN 1",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Orange 2",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Green Ball ",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Yellow Ball",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Yellow Ball Open",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Adult Level 1",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 2",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 3",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 4",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Cardio",
+      "session_category": "Cardio Tennis",
+      "age_group": "Adult"
+    }
+  ],
+  "sessions": [
     {
       "name": "Junior I",
-      "category": "Junior Beginner",
+      "category": "Junior: Beginner",
       "length_weeks": 6,
       "start_date": "2025-08-25T04:00:00.000Z",
       "end_date": "2025-10-05T04:00:00.000Z",
@@ -10,7 +82,7 @@
     },
     {
       "name": "Junior II",
-      "category": "Junior Beginner",
+      "category": "Junior: Beginner",
       "length_weeks": 9,
       "start_date": "2025-10-13T04:00:00.000Z",
       "end_date": "2025-12-21T05:00:00.000Z",
@@ -18,7 +90,7 @@
     },
     {
       "name": "Junior III",
-      "category": "Junior Beginner",
+      "category": "Junior: Beginner",
       "length_weeks": 8,
       "start_date": "2026-01-05T05:00:00.000Z",
       "end_date": "2026-03-01T05:00:00.000Z",
@@ -26,7 +98,7 @@
     },
     {
       "name": "Junior IV",
-      "category": "Junior Beginner",
+      "category": "Junior: Beginner",
       "length_weeks": 7,
       "start_date": "2026-03-02T05:00:00.000Z",
       "end_date": "2026-04-26T04:00:00.000Z",
@@ -34,7 +106,7 @@
     },
     {
       "name": "Junior A",
-      "category": "Junior Advanced",
+      "category": "Junior: Advanced",
       "length_weeks": 6,
       "start_date": "2025-08-25T04:00:00.000Z",
       "end_date": "2025-10-05T04:00:00.000Z",
@@ -42,7 +114,7 @@
     },
     {
       "name": "Junior B",
-      "category": "Junior Advanced",
+      "category": "Junior: Advanced",
       "length_weeks": 12,
       "start_date": "2025-10-13T04:00:00.000Z",
       "end_date": "2026-01-25T05:00:00.000Z",
@@ -50,7 +122,7 @@
     },
     {
       "name": "Junior C",
-      "category": "Junior Advanced",
+      "category": "Junior: Advanced",
       "length_weeks": 12,
       "start_date": "2026-01-26T05:00:00.000Z",
       "end_date": "2026-04-26T04:00:00.000Z",
@@ -90,7 +162,7 @@
     },
     {
       "name": "Cardio I",
-      "category": "Adult Cardio",
+      "category": "Cardio Tennis",
       "length_weeks": 6,
       "start_date": "2025-08-25T04:00:00.000Z",
       "end_date": "2025-10-05T04:00:00.000Z",
@@ -98,7 +170,7 @@
     },
     {
       "name": "Cardio II",
-      "category": "Adult Cardio",
+      "category": "Cardio Tennis",
       "length_weeks": 9,
       "start_date": "2025-10-13T04:00:00.000Z",
       "end_date": "2025-12-21T05:00:00.000Z",
@@ -106,7 +178,7 @@
     },
     {
       "name": "Cardio III",
-      "category": "Adult Cardio",
+      "category": "Cardio Tennis",
       "length_weeks": 8,
       "start_date": "2026-01-05T05:00:00.000Z",
       "end_date": "2026-03-01T05:00:00.000Z",
@@ -114,100 +186,14 @@
     },
     {
       "name": "Cardio IV",
-      "category": "Adult Cardio",
+      "category": "Cardio Tennis",
       "length_weeks": 7,
       "start_date": "2026-03-02T05:00:00.000Z",
       "end_date": "2026-04-26T04:00:00.000Z",
       "notes": ""
     }
   ],
-  "clinics": [
-    {
-      "name": "Tiny Tots",
-      "age_group": "Junior",
-      "age_range": "4 and up",
-      "session_category": "Junior Beginner"
-    },
-    {
-      "name": "Red Pre-Rally Player",
-      "age_group": "Junior",
-      "age_range": "5 and up",
-      "session_category": "Junior Beginner"
-    },
-    {
-      "name": "Red Player",
-      "age_group": "Junior",
-      "age_range": "5 and up",
-      "session_category": "Junior Beginner"
-    },
-    {
-      "name": "Orange Pre-Rally Player",
-      "age_group": "Junior",
-      "age_range": "8 and up",
-      "session_category": "Junior Beginner"
-    },
-    {
-      "name": "TEEN 1",
-      "age_group": "Junior",
-      "age_range": "12 - 17",
-      "session_category": "Junior Beginner"
-    },
-    {
-      "name": "Orange 2",
-      "age_group": "Junior",
-      "age_range": "12 - 17",
-      "session_category": "Junior Advanced"
-    },
-    {
-      "name": "Green Player ",
-      "age_group": "Junior",
-      "age_range": "12 - 17",
-      "session_category": "Junior Advanced"
-    },
-    {
-      "name": "Yellow Ball",
-      "age_group": "Junior",
-      "age_range": "12 - 17",
-      "session_category": "Junior Advanced"
-    },
-    {
-      "name": "Yellow Ball Open",
-      "age_group": "Junior",
-      "age_range": "12 - 17",
-      "session_category": "Junior Advanced"
-    },
-    {
-      "name": "Adult Level 1",
-      "age_group": "Adult",
-      "age_range": "18+",
-      "session_category": "Adult"
-    },
-    {
-      "name": "Adult Level 2",
-      "age_group": "Adult",
-      "age_range": "18+",
-      "session_category": "Adult"
-    },
-    {
-      "name": "Adult Level 3",
-      "age_group": "Adult",
-      "age_range": "18+",
-      "session_category": "Adult"
-    },
-    {
-      "name": "Adult Level 4",
-      "age_group": "Adult",
-      "age_range": "18+",
-      "session_category": "Adult"
-    },
-    {
-      "name": "Adult Cardio",
-      "age_group": "Adult",
-      "age_range": "18+",
-      "session_category": "Adult Cardio"
-    }
-  ],
-  "clinic_pricing": [
+  "pricing": [
     {
       "clinic": "Tiny Tots",
       "session": "Junior I",
@@ -241,7 +227,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "session": "Junior I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
@@ -249,7 +235,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "session": "Junior II",
       "duration": " 9 Weeks",
       "1_day_price": 218,
@@ -257,7 +243,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "session": "Junior III",
       "duration": " 8 Weeks",
       "1_day_price": 194,
@@ -265,7 +251,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "session": "Junior IV",
       "duration": " 7 Weeks",
       "1_day_price": 170,
@@ -273,7 +259,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "session": "Junior I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
@@ -281,7 +267,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "session": "Junior II",
       "duration": " 9 Weeks",
       "1_day_price": 218,
@@ -289,7 +275,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "session": "Junior III",
       "duration": " 8 Weeks",
       "1_day_price": 194,
@@ -297,7 +283,7 @@
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "session": "Junior IV",
       "duration": " 7 Weeks",
       "1_day_price": 170,
@@ -305,7 +291,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "session": "Junior I",
       "duration": " 6 Weeks",
       "1_day_price": 146,
@@ -313,7 +299,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "session": "Junior II",
       "duration": " 9 Weeks",
       "1_day_price": 218,
@@ -321,7 +307,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "session": "Junior III",
       "duration": " 8 Weeks",
       "1_day_price": 194,
@@ -329,7 +315,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "session": "Junior IV",
       "duration": " 7 Weeks",
       "1_day_price": 170,
@@ -393,7 +379,7 @@
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "session": "Junior A",
       "duration": " 6 Weeks",
       "1_day_price": 288,
@@ -401,7 +387,7 @@
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "session": "Junior B",
       "duration": " 12 Weeks",
       "1_day_price": 576,
@@ -409,7 +395,7 @@
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "session": "Junior C",
       "duration": " 12 Weeks",
       "1_day_price": 576,
@@ -633,23 +619,14 @@
       "notes": "Monday only"
     }
   ],
-  "clinic_classes": [
+  "classes": [
     {
       "clinic": "Tiny Tots",
       "level": 1,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:15:00.000Z",
-      "notes": ""
-    },
-    {
-      "clinic": "Tiny Tots",
-      "level": 1,
-      "day": "Tuesday",
-      "capacity": 10,
-      "start_time": "1899-12-30T15:00:00.000Z",
-      "end_time": "1899-12-30T15:45:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
       "notes": ""
     },
     {
@@ -657,8 +634,17 @@
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T18:45:00.000Z",
+      "start_time": "10:00 AM",
+      "end_time": "10:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "1:45 PM",
       "notes": ""
     },
     {
@@ -666,8 +652,8 @@
       "level": 1,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:15:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
       "notes": ""
     },
     {
@@ -675,8 +661,8 @@
       "level": 1,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-30T23:45:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "6:45 PM",
       "notes": ""
     },
     {
@@ -684,8 +670,8 @@
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -693,179 +679,179 @@
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T17:45:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "12:45 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Pre-Rally Player",
+      "clinic": "Red Pre-Rally",
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T18:00:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Red Player",
+      "clinic": "Red Ball",
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:30:00.000Z",
-      "end_time": "1899-12-30T21:30:00.000Z",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Orange Pre-Rally Player",
+      "clinic": "Orange Pre-Rally",
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -873,8 +859,8 @@
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -882,8 +868,8 @@
       "level": 3,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-31T00:00:00.000Z",
-      "end_time": "1899-12-31T01:00:00.000Z",
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
       "notes": ""
     },
     {
@@ -891,8 +877,8 @@
       "level": 3,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -900,8 +886,8 @@
       "level": 3.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T21:30:00.000Z",
-      "end_time": "1899-12-30T23:00:00.000Z",
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
       "notes": ""
     },
     {
@@ -909,8 +895,8 @@
       "level": 3.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T21:30:00.000Z",
-      "end_time": "1899-12-30T23:00:00.000Z",
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
       "notes": ""
     },
     {
@@ -918,8 +904,8 @@
       "level": 3.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "1899-12-30T19:00:00.000Z",
-      "end_time": "1899-12-30T20:30:00.000Z",
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
@@ -927,35 +913,35 @@
       "level": 3.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T18:30:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "level": 4,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "level": 4,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Player ",
+      "clinic": "Green Ball ",
       "level": 4,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:30:00.000Z",
-      "end_time": "1899-12-30T20:30:00.000Z",
+      "start_time": "1:30 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
@@ -963,8 +949,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -972,8 +958,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -981,8 +967,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -990,8 +976,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -999,8 +985,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1008,8 +994,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1017,8 +1003,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1026,8 +1012,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1035,8 +1021,8 @@
       "level": 4.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -1044,8 +1030,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1053,8 +1039,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1062,8 +1048,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1071,8 +1057,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1080,8 +1066,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1089,8 +1075,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1098,8 +1084,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T20:00:00.000Z",
-      "end_time": "1899-12-30T22:00:00.000Z",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1107,8 +1093,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T22:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1116,8 +1102,8 @@
       "level": 4.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -1125,8 +1111,8 @@
       "level": 1,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:00:00.000Z",
-      "end_time": "1899-12-30T18:30:00.000Z",
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
       "notes": ""
     },
     {
@@ -1134,8 +1120,8 @@
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T16:00:00.000Z",
-      "end_time": "1899-12-30T17:30:00.000Z",
+      "start_time": "11:00 AM",
+      "end_time": "12:30 PM",
       "notes": ""
     },
     {
@@ -1143,8 +1129,8 @@
       "level": 1,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:00:00.000Z",
-      "end_time": "1899-12-30T15:30:00.000Z",
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
       "notes": ""
     },
     {
@@ -1152,8 +1138,8 @@
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:30:00.000Z",
-      "end_time": "1899-12-30T16:00:00.000Z",
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
@@ -1161,8 +1147,8 @@
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T15:30:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -1170,8 +1156,8 @@
       "level": 2,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1899-12-30T15:30:00.000Z",
-      "end_time": "1899-12-30T17:00:00.000Z",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -1179,8 +1165,8 @@
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:00:00.000Z",
-      "end_time": "1899-12-30T15:30:00.000Z",
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
       "notes": ""
     },
     {
@@ -1188,8 +1174,8 @@
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-31T01:00:00.000Z",
-      "end_time": "1899-12-31T02:30:00.000Z",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
@@ -1197,8 +1183,8 @@
       "level": 3,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-31T01:00:00.000Z",
-      "end_time": "1899-12-31T02:30:00.000Z",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
@@ -1206,8 +1192,8 @@
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-31T02:00:00.000Z",
-      "end_time": "1899-12-31T03:30:00.000Z",
+      "start_time": "9:00 PM",
+      "end_time": "10:30 PM",
       "notes": ""
     },
     {
@@ -1215,8 +1201,8 @@
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-30T18:00:00.000Z",
-      "end_time": "1899-12-30T19:30:00.000Z",
+      "start_time": "1:00 PM",
+      "end_time": "2:30 PM",
       "notes": ""
     },
     {
@@ -1224,8 +1210,8 @@
       "level": 3,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-31T00:00:00.000Z",
-      "end_time": "1899-12-31T01:30:00.000Z",
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
       "notes": ""
     },
     {
@@ -1233,8 +1219,8 @@
       "level": 3,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:30:00.000Z",
-      "end_time": "1899-12-30T16:00:00.000Z",
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
@@ -1242,8 +1228,8 @@
       "level": 4,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T17:30:00.000Z",
-      "end_time": "1899-12-30T19:00:00.000Z",
+      "start_time": "12:30 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -1251,8 +1237,8 @@
       "level": 4,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-31T01:00:00.000Z",
-      "end_time": "1899-12-31T02:30:00.000Z",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
@@ -1260,8 +1246,8 @@
       "level": 4,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-31T01:00:00.000Z",
-      "end_time": "1899-12-31T02:30:00.000Z",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
@@ -1269,8 +1255,8 @@
       "level": 4,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1899-12-30T19:00:00.000Z",
-      "end_time": "1899-12-30T20:30:00.000Z",
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
@@ -1278,8 +1264,8 @@
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:00:00.000Z",
-      "end_time": "1899-12-30T15:00:00.000Z",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
       "notes": "5 weeks only"
     },
     {
@@ -1287,8 +1273,8 @@
       "level": 3,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": "5 weeks only"
     },
     {
@@ -1296,8 +1282,8 @@
       "level": 2,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1305,8 +1291,8 @@
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T23:00:00.000Z",
-      "end_time": "1899-12-31T00:00:00.000Z",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1314,8 +1300,8 @@
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "1899-12-30T15:00:00.000Z",
-      "end_time": "1899-12-30T16:00:00.000Z",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
@@ -1323,8 +1309,8 @@
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T14:00:00.000Z",
-      "end_time": "1899-12-30T15:00:00.000Z",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
       "notes": ""
     },
     {
@@ -1332,8 +1318,8 @@
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "1899-12-30T15:00:00.000Z",
-      "end_time": "1899-12-30T16:00:00.000Z",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     }
   ],
