@@ -1,0 +1,1435 @@
+{
+  "clinics": [
+    {
+      "name": "Tiny Tots",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Red Pre-Rally",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Red Ball",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Orange Pre-Rally",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "TEEN 1",
+      "session_category": "Junior: Beginner",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Orange 2",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Green Ball ",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Yellow Ball",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Yellow Ball Open",
+      "session_category": "Junior: Advanced",
+      "age_group": "Junior"
+    },
+    {
+      "name": "Adult Level 1",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 2",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 3",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Level 4",
+      "session_category": "Adult",
+      "age_group": "Adult"
+    },
+    {
+      "name": "Adult Cardio",
+      "session_category": "Cardio Tennis",
+      "age_group": "Adult"
+    }
+  ],
+  "sessions": [
+    {
+      "name": "Junior Spring: Beginner",
+      "category": "Junior: Beginner",
+      "length_weeks": 5,
+      "start_date": "2026-05-04T04:00:00.000Z",
+      "end_date": "2026-06-07T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Junior Summer: Beginner",
+      "category": "Junior: Beginner",
+      "length_weeks": 8,
+      "start_date": "2026-06-08T04:00:00.000Z",
+      "end_date": "2026-08-02T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Junior Spring: Advanced",
+      "category": "Junior: Advanced",
+      "length_weeks": 5,
+      "start_date": "2026-05-04T04:00:00.000Z",
+      "end_date": "2026-06-07T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Adult Spring",
+      "category": "Adult",
+      "length_weeks": 5,
+      "start_date": "2026-05-04T04:00:00.000Z",
+      "end_date": "2026-06-07T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Adult Summer",
+      "category": "Adult",
+      "length_weeks": 8,
+      "start_date": "2026-06-08T04:00:00.000Z",
+      "end_date": "2026-08-02T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Cardio Spring: Short",
+      "category": "Cardio Tennis",
+      "length_weeks": 4,
+      "start_date": "2026-05-04T04:00:00.000Z",
+      "end_date": "2026-06-07T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Cardio Spring",
+      "category": "Cardio Tennis",
+      "length_weeks": 5,
+      "start_date": "2026-05-04T04:00:00.000Z",
+      "end_date": "2026-06-07T04:00:00.000Z",
+      "notes": ""
+    },
+    {
+      "name": "Cardio Summer",
+      "category": "Cardio Tennis",
+      "length_weeks": 8,
+      "start_date": "2026-06-08T04:00:00.000Z",
+      "end_date": "2026-08-02T04:00:00.000Z",
+      "notes": ""
+    }
+  ],
+  "pricing": [
+    {
+      "clinic": "Tiny Tots",
+      "session": "Junior Spring: Beginner",
+      "duration": " 5 Weeks",
+      "1_day_price": 104,
+      "2_day_price": 188,
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "session": "Junior Summer: Beginner",
+      "duration": " 8 Weeks",
+      "1_day_price": 166,
+      "2_day_price": 312,
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "session": "Junior Spring: Beginner",
+      "duration": " 5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "session": "Junior Summer: Beginner",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368,
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "session": "Junior Spring: Beginner",
+      "duration": " 5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "session": "Junior Summer: Beginner",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "session": "Junior Spring: Beginner",
+      "duration": " 5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "session": "Junior Summer: Beginner",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368,
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "session": "Junior Spring: Beginner",
+      "duration": " 5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "session": "Junior Summer: Beginner",
+      "duration": " 8 Weeks",
+      "1_day_price": 194,
+      "2_day_price": 368,
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "session": "Junior Spring: Advanced",
+      "duration": " 5 Weeks",
+      "1_day_price": 185,
+      "2_day_price": 350,
+      "notes": ""
+    },
+    {
+      "clinic": "Green Ball ",
+      "session": "Junior Spring: Advanced",
+      "duration": " 5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "session": "Junior Spring: Advanced",
+      "duration": " 5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "session": "Junior Spring: Advanced",
+      "duration": " 5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Adult Spring",
+      "duration": " 5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "session": "Adult Summer",
+      "duration": " 8 Weeks",
+      "1_day_price": 245,
+      "2_day_price": 470,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Adult Spring",
+      "duration": " 5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "session": "Adult Summer",
+      "duration": " 8 Weeks",
+      "1_day_price": 245,
+      "2_day_price": 470,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Adult Spring",
+      "duration": " 5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "session": "Adult Summer",
+      "duration": " 8 Weeks",
+      "1_day_price": 245,
+      "2_day_price": 470,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Adult Spring",
+      "duration": " 5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "session": "Adult Summer",
+      "duration": " 8 Weeks",
+      "1_day_price": 245,
+      "2_day_price": 470,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Cardio Spring",
+      "duration": " 5 Weeks",
+      "1_day_price": 140,
+      "2_day_price": 260,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Cardio Summer",
+      "duration": " 8 Weeks",
+      "1_day_price": 224,
+      "2_day_price": 428,
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "session": "Cardio Spring: Short",
+      "duration": "4 Weeks",
+      "1_day_price": 112,
+      "2_day_price": "",
+      "notes": "Mondays Only"
+    }
+  ],
+  "classes": [
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "10:00 AM",
+      "end_time": "10:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "6:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "11:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "12:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "5:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "6:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "11:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "5:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "6:45 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "11:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Tiny Tots",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "11:45 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 1,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Spring: Beginner",
+      "level": 1.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00PM",
+      "end_time": "7:00PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Red Ball",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange Pre-Rally",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "sessions": "Junior Spring: Beginner",
+      "level": 2,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "TEEN 1",
+      "sessions": "Junior Summer: Beginner",
+      "level": 2,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "sessions": "",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "sessions": "",
+      "level": 3,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "sessions": "",
+      "level": 3,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Orange 2",
+      "sessions": "",
+      "level": 3,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Ball ",
+      "sessions": "",
+      "level": 3.5,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Ball ",
+      "sessions": "",
+      "level": 3.5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Ball ",
+      "sessions": "",
+      "level": 3.5,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Green Ball ",
+      "sessions": "",
+      "level": 3.5,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "3:00PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball",
+      "sessions": "",
+      "level": 4,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "sessions": "",
+      "level": 5,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "sessions": "",
+      "level": 5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "sessions": "",
+      "level": 5,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Yellow Ball Open",
+      "sessions": "",
+      "level": 5,
+      "day": "Saturday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "sessions": "",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "sessions": "",
+      "level": 1,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "sessions": "",
+      "level": 1,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "sessions": "",
+      "level": 1,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 1",
+      "sessions": "",
+      "level": 1,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "sessions": "",
+      "level": 2,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "sessions": "",
+      "level": 2,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
+      "notes": "Is this correct?"
+    },
+    {
+      "clinic": "Adult Level 2",
+      "sessions": "",
+      "level": 2,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "sessions": "",
+      "level": 2,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 2",
+      "sessions": "",
+      "level": 2,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "11:00 AM",
+      "end_time": "12:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 3",
+      "sessions": "",
+      "level": 3,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "sessions": "",
+      "level": 4,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "1:00 PM",
+      "end_time": "2:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "sessions": "",
+      "level": 4,
+      "day": "Tuesday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "sessions": "",
+      "level": 4,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "sessions": "",
+      "level": 4,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "8:30 PM",
+      "end_time": "10:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Level 4",
+      "sessions": "",
+      "level": 4,
+      "day": "Sunday",
+      "capacity": 10,
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "Cardio Spring: Short, Cardio Summer",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "Cardio Spring: Short, Cardio Summer",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "Cardio Spring: Short",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "Cardio Summer",
+      "level": 3,
+      "day": "Monday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "",
+      "level": 3,
+      "day": "Wednesday",
+      "capacity": 10,
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "",
+      "level": 3,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "",
+      "level": 3,
+      "day": "Thursday",
+      "capacity": 10,
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "",
+      "level": 3,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "notes": ""
+    },
+    {
+      "clinic": "Adult Cardio",
+      "sessions": "",
+      "level": 3,
+      "day": "Friday",
+      "capacity": 10,
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "notes": ""
+    }
+  ],
+  "tournaments": []
+}
