@@ -55,6 +55,7 @@
     "wpackagist-theme/twentytwentyfive": "^1.0",
     "wpackagist-plugin/advanced-custom-fields": "^6.4",
     "wpackagist-plugin/woocommerce": "10.3.0",
+    "wpackagist-plugin/user-switching":"1.11.1",
     "generoi/sage-woocommerce": "^1.1",
     "hcd/usctdp-mgmt": "@dev",
     "berlindb/core": "^2.0",
