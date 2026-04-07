@@ -201,13 +201,18 @@
       "image_id": "1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4"
     }
   ],
-  "equipment": [
+  "merchandise": [
     {
       "name": "Racket",
-      "description": "WIlson tennis racket.",
-      "price": 50,
+      "description": "Wilson tennis racket.",
+      "price": 150,
       "code": "racket"
+    },
+    {
+      "name": "T-Shirt",
+      "description": "USCTDP T-Shirt",
+      "price": 20,
+      "code": "tshirt"
     }
-  ],
-  "special_events": []
+  ]
 }
