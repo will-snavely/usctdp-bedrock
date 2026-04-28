@@ -40,10 +40,6 @@
     {
       "type": "path",
       "url": "web/app/plugins/usctdp-mgmt"
-    },
-    {
-      "type": "path",
-      "url": "web/app/themes/usctdp-theme"
     }
   ],
   "require": {
