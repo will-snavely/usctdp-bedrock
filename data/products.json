@@ -109,7 +109,7 @@
       "image_id": "1V4bOPgXOgTQK63cMyTgxqiWd0lRthwlL"
     },
     {
-      "name": "Adult Level 1",
+      "name": "Level 1",
       "code": "adult1",
       "session_category": "Adult",
       "age_group": "Adult",
@@ -121,7 +121,7 @@
       "image_id": "1rs1Da8ZgzFwPbav2zakDLlBRb_1vxfTE"
     },
     {
-      "name": "Adult Level 2",
+      "name": "Level 2",
       "code": "adult2",
       "session_category": "Adult",
       "age_group": "Adult",
@@ -133,7 +133,7 @@
       "image_id": "1BLOBhhnp7NPP2yC-xqrSVPLiu2v75LRE"
     },
     {
-      "name": "Adult Level 3",
+      "name": "Level 3",
       "code": "adult3",
       "session_category": "Adult",
       "age_group": "Adult",
@@ -145,7 +145,7 @@
       "image_id": "1CgLPerkXwF0_mlxrEVEuWPPNa_nCXfrQ"
     },
     {
-      "name": "Adult Level 4",
+      "name": "Level 4",
       "code": "adult4",
       "session_category": "Adult",
       "age_group": "Adult",
@@ -157,7 +157,7 @@
       "image_id": "1GWlasB8Y0y09Ci75br6hznZ8u3rKSpez"
     },
     {
-      "name": "Adult Cardio",
+      "name": "Cardio",
       "code": "cardio",
       "session_category": "Cardio Tennis",
       "age_group": "Adult",
@@ -204,7 +204,7 @@
   "merchandise": [
     {
       "name": "Racket",
-      "description": "Wilson tennis racket.",
+      "description": "WIlson tennis racket.",
       "price": 150,
       "code": "racket"
     },

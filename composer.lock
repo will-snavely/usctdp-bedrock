@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "58ee2c7a0ece8783c9ba7353e02aa962",
+    "content-hash": "d241f66f0717a5c8a4f538d007ca4826",
     "packages": [
         {
             "name": "berlindb/core",
@@ -868,16 +868,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.440.0",
+            "version": "v0.441.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "f835f7a84611071ca2f58e8f44aac497d3aa7c44"
+                "reference": "9e3c10389ed39915261e5bc98a687c2b1307040d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/f835f7a84611071ca2f58e8f44aac497d3aa7c44",
-                "reference": "f835f7a84611071ca2f58e8f44aac497d3aa7c44",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/9e3c10389ed39915261e5bc98a687c2b1307040d",
+                "reference": "9e3c10389ed39915261e5bc98a687c2b1307040d",
                 "shasum": ""
             },
             "require": {
@@ -906,9 +906,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.440.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.441.0"
             },
-            "time": "2026-05-04T01:36:24+00:00"
+            "time": "2026-05-11T01:42:35+00:00"
         },
         {
             "name": "google/auth",
@@ -5052,16 +5052,16 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.8.2",
+            "version": "6.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
-                "reference": "29e4eb49b2f4c591e39d4eb6705a27cf1ea40e45"
+                "reference": "2fa44383ade9e8ccbb986e95ca70a365c8221eb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roots/wordpress/zipball/29e4eb49b2f4c591e39d4eb6705a27cf1ea40e45",
-                "reference": "29e4eb49b2f4c591e39d4eb6705a27cf1ea40e45",
+                "url": "https://api.github.com/repos/roots/wordpress/zipball/2fa44383ade9e8ccbb986e95ca70a365c8221eb1",
+                "reference": "2fa44383ade9e8ccbb986e95ca70a365c8221eb1",
                 "shasum": ""
             },
             "require": {
@@ -5083,7 +5083,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/6.8.2"
+                "source": "https://github.com/roots/wordpress/tree/6.9.2"
             },
             "funding": [
                 {
@@ -5091,7 +5091,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-05-23T18:54:22+00:00"
+            "time": "2026-03-09T19:47:29+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
@@ -5162,23 +5162,23 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.8.2",
+            "version": "6.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.8.2"
+                "reference": "6.9.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/release/wordpress-6.8.2-no-content.zip",
-                "reference": "6.8.2",
-                "shasum": "7d8dcb839f4754e331d93b86f9adc8c171d81e97"
+                "url": "https://downloads.w.org/release/wordpress-6.9.2-no-content.zip",
+                "reference": "6.9.2",
+                "shasum": "38c71754a09877f38424efa9261ad7d3b15dc892"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.8.2"
+                "wordpress/core-implementation": "6.9.2"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -5229,7 +5229,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2025-07-15T15:29:08+00:00"
+            "time": "2026-03-10T15:59:44+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -8407,12 +8407,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "5a7fa9fd3ce6eefbc9b982d6c78d0aa15d328d6c"
+                "reference": "ec0c867c22e5b8d392815d48e4cc9de37470e8c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/5a7fa9fd3ce6eefbc9b982d6c78d0aa15d328d6c",
-                "reference": "5a7fa9fd3ce6eefbc9b982d6c78d0aa15d328d6c",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ec0c867c22e5b8d392815d48e4cc9de37470e8c0",
+                "reference": "ec0c867c22e5b8d392815d48e4cc9de37470e8c0",
                 "shasum": ""
             },
             "conflict": {
@@ -8601,7 +8601,7 @@
                 "doctrine/mongodb-odm": "<1.0.2",
                 "doctrine/mongodb-odm-bundle": "<3.0.1",
                 "doctrine/orm": ">=1,<1.2.4|>=2,<2.4.8|>=2.5,<2.5.1|>=2.8.3,<2.8.4",
-                "dolibarr/dolibarr": "<=22.0.4",
+                "dolibarr/dolibarr": "<=23.0.2",
                 "dompdf/dompdf": "<2.0.4",
                 "doublethreedigital/guest-entries": "<3.1.2",
                 "dreamfactory/df-core": "<1.0.4",
@@ -8893,7 +8893,7 @@
                 "maikuolan/phpmussel": ">=1,<1.6",
                 "mainwp/mainwp": "<=4.4.3.3",
                 "manogi/nova-tiptap": "<=3.2.6",
-                "mantisbt/mantisbt": "<2.28.1",
+                "mantisbt/mantisbt": "<2.28.2",
                 "marcwillmann/turn": "<0.3.3",
                 "markhuot/craftql": "<=1.3.7",
                 "marshmallow/nova-tiptap": "<5.7",
@@ -9191,7 +9191,7 @@
                 "starcitizenwiki/embedvideo": "<=4",
                 "statamic/cms": "<5.73.21|>=6,<6.15",
                 "stormpath/sdk": "<9.9.99",
-                "studio-42/elfinder": "<2.1.67",
+                "studio-42/elfinder": "<=2.1.67",
                 "studiomitte/friendlycaptcha": "<0.1.4",
                 "subhh/libconnect": "<7.0.8|>=8,<8.1",
                 "sukohi/surpass": "<1",
@@ -9375,7 +9375,7 @@
                 "yidashi/yii2cmf": "<=2",
                 "yii2mod/yii2-cms": "<1.9.2",
                 "yiisoft/yii": "<1.1.31",
-                "yiisoft/yii2": "<2.0.52",
+                "yiisoft/yii2": "<2.0.55",
                 "yiisoft/yii2-authclient": "<2.2.15",
                 "yiisoft/yii2-bootstrap": "<2.0.4",
                 "yiisoft/yii2-dev": "<=2.0.45",
@@ -9465,7 +9465,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-08T23:22:52+00:00"
+            "time": "2026-05-11T19:35:52+00:00"
         },
         {
             "name": "sebastian/cli-parser",
