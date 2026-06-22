@@ -626,7 +626,7 @@
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "session": "Cardio I",
       "duration": "5 Weeks",
       "1_day_price": 150,
@@ -640,8 +640,8 @@
       "level": 1,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:15 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
       "notes": ""
     },
     {
@@ -649,8 +649,8 @@
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "10:00 AM",
-      "end_time": "10:45 AM",
+      "start_time": "10:00 AM",
+      "end_time": "10:45 AM",
       "notes": ""
     },
     {
@@ -658,8 +658,8 @@
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "1:45 PM",
+      "start_time": "1:00 PM",
+      "end_time": "1:45 PM",
       "notes": ""
     },
     {
@@ -667,8 +667,8 @@
       "level": 1,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:15 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:15 PM",
       "notes": ""
     },
     {
@@ -676,8 +676,8 @@
       "level": 1,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "6:45 PM",
+      "start_time": "6:00 PM",
+      "end_time": "6:45 PM",
       "notes": ""
     },
     {
@@ -685,8 +685,8 @@
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -694,8 +694,8 @@
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "12:45 PM",
+      "start_time": "12:00 PM",
+      "end_time": "12:45 PM",
       "notes": ""
     },
     {
@@ -703,8 +703,8 @@
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -712,8 +712,8 @@
       "level": 1.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -721,8 +721,8 @@
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -730,8 +730,8 @@
       "level": 1.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -739,8 +739,8 @@
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -748,8 +748,8 @@
       "level": 1.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -757,8 +757,8 @@
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -766,8 +766,8 @@
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -775,8 +775,8 @@
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -784,8 +784,8 @@
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -793,8 +793,8 @@
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -802,8 +802,8 @@
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "1:00 PM",
+      "start_time": "12:00 PM",
+      "end_time": "1:00 PM",
       "notes": ""
     },
     {
@@ -811,8 +811,8 @@
       "level": 2,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -820,8 +820,8 @@
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -829,8 +829,8 @@
       "level": 2.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -838,8 +838,8 @@
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:30 PM",
-      "end_time": "4:30 PM",
+      "start_time": "3:30 PM",
+      "end_time": "4:30 PM",
       "notes": ""
     },
     {
@@ -847,8 +847,8 @@
       "level": 2.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -856,8 +856,8 @@
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "11:00 AM",
-      "end_time": "12:00 PM",
+      "start_time": "11:00 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
@@ -865,8 +865,8 @@
       "level": 2.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -874,8 +874,8 @@
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -883,8 +883,8 @@
       "level": 3,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "7:00 PM",
-      "end_time": "8:00 PM",
+      "start_time": "7:00 PM",
+      "end_time": "8:00 PM",
       "notes": ""
     },
     {
@@ -892,8 +892,8 @@
       "level": 3,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "1:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -901,8 +901,8 @@
       "level": 3.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "4:30 PM",
-      "end_time": "6:00 PM",
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
       "notes": ""
     },
     {
@@ -910,8 +910,8 @@
       "level": 3.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "4:30 PM",
-      "end_time": "6:00 PM",
+      "start_time": "4:30 PM",
+      "end_time": "6:00 PM",
       "notes": ""
     },
     {
@@ -919,8 +919,8 @@
       "level": 3.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "2:00 PM",
-      "end_time": "3:30 PM",
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
@@ -928,8 +928,8 @@
       "level": 3.5,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "1:30 PM",
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
       "notes": ""
     },
     {
@@ -937,8 +937,8 @@
       "level": 4,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -946,8 +946,8 @@
       "level": 4,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -955,8 +955,8 @@
       "level": 4,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "1:30 PM",
-      "end_time": "3:30 PM",
+      "start_time": "1:30 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
@@ -964,8 +964,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -973,8 +973,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -982,8 +982,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -991,8 +991,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1000,8 +1000,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1009,8 +1009,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1018,8 +1018,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1027,8 +1027,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1036,8 +1036,8 @@
       "level": 4.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
@@ -1045,8 +1045,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1054,8 +1054,8 @@
       "level": 4.5,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1063,8 +1063,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1072,8 +1072,8 @@
       "level": 4.5,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1081,8 +1081,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1090,8 +1090,8 @@
       "level": 4.5,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1099,8 +1099,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "3:00 PM",
-      "end_time": "5:00 PM",
+      "start_time": "3:00 PM",
+      "end_time": "5:00 PM",
       "notes": ""
     },
     {
@@ -1108,8 +1108,8 @@
       "level": 4.5,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "5:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "5:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
@@ -1117,224 +1117,224 @@
       "level": 4.5,
       "day": "Saturday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "2:00 PM",
+      "start_time": "12:00 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 1",
+      "clinic": "Level 1",
       "level": 1,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "12:00 PM",
-      "end_time": "1:30 PM",
+      "start_time": "12:00 PM",
+      "end_time": "1:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 1",
+      "clinic": "Level 1",
       "level": 1,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "11:00 AM",
-      "end_time": "12:30 PM",
+      "start_time": "11:00 AM",
+      "end_time": "12:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 1",
+      "clinic": "Level 1",
       "level": 1,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "9:00 AM",
-      "end_time": "10:30 AM",
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 1",
+      "clinic": "Level 1",
       "level": 1,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "9:30 AM",
-      "end_time": "11:00 AM",
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 2",
+      "clinic": "Level 2",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "10:30 AM",
-      "end_time": "12:00 PM",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 2",
+      "clinic": "Level 2",
       "level": 2,
       "day": "Tuesday",
       "capacity": 10,
-      "start_time": "10:30 AM",
-      "end_time": "12:00 PM",
+      "start_time": "10:30 AM",
+      "end_time": "12:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 2",
+      "clinic": "Level 2",
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "9:00 AM",
-      "end_time": "10:30 AM",
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 2",
+      "clinic": "Level 2",
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "8:00 PM",
-      "end_time": "9:30 PM",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 3",
+      "clinic": "Level 3",
       "level": 3,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "8:00 PM",
-      "end_time": "9:30 PM",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 3",
+      "clinic": "Level 3",
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "9:00 PM",
-      "end_time": "10:30 PM",
+      "start_time": "9:00 PM",
+      "end_time": "10:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 3",
+      "clinic": "Level 3",
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "1:00 PM",
-      "end_time": "2:30 PM",
+      "start_time": "1:00 PM",
+      "end_time": "2:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 3",
+      "clinic": "Level 3",
       "level": 3,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "7:00 PM",
-      "end_time": "8:30 PM",
+      "start_time": "7:00 PM",
+      "end_time": "8:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 3",
+      "clinic": "Level 3",
       "level": 3,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "9:30 AM",
-      "end_time": "11:00 AM",
+      "start_time": "9:30 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 4",
+      "clinic": "Level 4",
       "level": 4,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "12:30 PM",
-      "end_time": "2:00 PM",
+      "start_time": "12:30 PM",
+      "end_time": "2:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 4",
+      "clinic": "Level 4",
       "level": 4,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "8:00 PM",
-      "end_time": "9:30 PM",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 4",
+      "clinic": "Level 4",
       "level": 4,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "8:00 PM",
-      "end_time": "9:30 PM",
+      "start_time": "8:00 PM",
+      "end_time": "9:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Level 4",
+      "clinic": "Level 4",
       "level": 4,
       "day": "Sunday",
       "capacity": 10,
-      "start_time": "2:00 PM",
-      "end_time": "3:30 PM",
+      "start_time": "2:00 PM",
+      "end_time": "3:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "9:00 AM",
-      "end_time": "10:00 AM",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
       "notes": "5 weeks only"
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 3,
       "day": "Monday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": "5 weeks only"
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "6:00 PM",
-      "end_time": "7:00 PM",
+      "start_time": "6:00 PM",
+      "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Thursday",
       "capacity": 10,
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "9:00 AM",
-      "end_time": "10:00 AM",
+      "start_time": "9:00 AM",
+      "end_time": "10:00 AM",
       "notes": ""
     },
     {
-      "clinic": "Adult Cardio",
+      "clinic": "Cardio",
       "level": 2,
       "day": "Friday",
       "capacity": 10,
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
+      "start_time": "10:00 AM",
+      "end_time": "11:00 AM",
       "notes": ""
     }
   ],
