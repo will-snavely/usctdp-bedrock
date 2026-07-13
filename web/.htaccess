@@ -1,0 +1,50 @@
+
+# Bedrock web root .htaccess.
+#
+# Bedrock keeps WordPress core (wp-admin, wp-includes) under web/wp/, so the
+# stock WordPress-generated rewrite block (which only knows about a single
+# flat install) isn't enough here: /wp-admin/, /wp-login.php, etc. need to be
+# routed into wp/ explicitly, or they 404 once pretty permalinks are on.
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+
+# Stop here for the front controller itself, otherwise the catch-all rule
+# below rewrites index.php to index.php forever (internal redirect loop).
+RewriteRule ^index\.php$ - [L]
+
+# Deny direct access to Blade template source with a 404 (rather than 403,
+# so we don't confirm the file exists). These live under
+# web/app/themes/**/resources/views/ (reachable via /wp-content/themes/...
+# thanks to the wp-content rewrite below) and end in .php, so Apache would
+# otherwise hand them to the PHP handler directly — which fails loudly on
+# Blade's @directive/{{ }} syntax and can leak file paths in the error.
+RewriteRule \.blade\.php$ - [R=404,L]
+
+# Route WordPress core paths into web/wp/, where Bedrock actually keeps
+# wp-admin/wp-includes, and wp-content requests into web/app/, which is
+# where Bedrock remaps wp-content to (there is no web/wp/wp-content/).
+# Each rewrite restarts matching from the top in per-directory context, so
+# every rule below guards on "not already a real file/dir" — otherwise the
+# catch-all would re-rewrite the real file it just resolved to, looping
+# forever.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^wp-content/(.*) app/$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(wp-(admin|includes).*) wp/$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*\.php)$ wp/$1 [L]
+
+# Everything else — including pretty permalinks — goes through Bedrock's
+# front controller, which boots WordPress and lets it resolve the request.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>

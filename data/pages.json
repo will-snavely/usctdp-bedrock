@@ -1,0 +1,102 @@
+{
+  "_comment": "Source of truth for WP page structure + primary nav menu. Applied via `wp usctdp import_pages data/pages.json`. Only covers pages that back a real wp_posts row (post_type=page) via a Blade 'Template Name' template. Routes with no WP page (e.g. /programming/juniors/, /our-team/{slug}/ — see resources/views/routes/web.php) are NOT listed here; link to them from the menu with a 'url' entry instead. Menu items take exactly one of: 'page' (slug from the pages array above), 'url' (a site-relative path, prefixed with home_url()), or 'external' (a full off-site URL, used as-is). 'permalink_structure' is optional; when set, it's applied via WP's rewrite API (same as Settings -> Permalinks) so pages resolve to clean URLs instead of ?page_id=N.",
+  "permalink_structure": "/%postname%/",
+  "pages": [
+    {
+      "slug": "about",
+      "title": "About",
+      "template": "pages/about.blade.php"
+    },
+    {
+      "slug": "programming",
+      "title": "Programming",
+      "template": "pages/programming.blade.php"
+    },
+    {
+      "slug": "successes",
+      "title": "Successes",
+      "template": "pages/successes.blade.php"
+    },
+    {
+      "slug": "policies",
+      "title": "Policies & Information",
+      "template": "pages/policies.blade.php"
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "template": "pages/contact.blade.php"
+    },
+    {
+      "slug": "our-team",
+      "title": "Our Team",
+      "template": "staff/archive.blade.php"
+    }
+  ],
+  "menus": {
+    "primary_navigation": [
+      {
+        "label": "About",
+        "page": "about",
+        "children": [
+          {
+            "label": "About Us",
+            "page": "about"
+          },
+          {
+            "label": "Our Team",
+            "page": "our-team"
+          },
+          {
+            "label": "Successes",
+            "page": "successes"
+          },
+          {
+            "label": "Policies",
+            "page": "policies"
+          }
+        ]
+      },
+      {
+        "label": "Programming",
+        "page": "programming",
+        "children": [
+          {
+            "label": "Junior Programs",
+            "url": "/programming/juniors/"
+          },
+          {
+            "label": "Adult Programs",
+            "url": "/programming/adults/"
+          },
+          {
+            "label": "Register",
+            "page": "shop"
+          }
+        ]
+      },
+      {
+        "label": "Contact",
+        "page": "contact",
+        "children": [
+          {
+            "label": "Our Office",
+            "page": "contact"
+          },
+          {
+            "label": "Facebook",
+            "external": "https://www.facebook.com/tennisstclair/"
+          },
+          {
+            "label": "Instagram",
+            "external": "https://www.instagram.com/usctdp/"
+          }
+        ]
+      },
+      {
+        "label": "Merch",
+        "external": "https://shieldsembroidery.tuosystems.com/stores/usctdp2024"
+      }
+    ]
+  }
+}
