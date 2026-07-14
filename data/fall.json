@@ -642,7 +642,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:15 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 1
     },
     {
       "clinic": "Tiny Tots",
@@ -651,7 +653,9 @@
       "capacity": 10,
       "start_time": "10:00 AM",
       "end_time": "10:45 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 2
     },
     {
       "clinic": "Tiny Tots",
@@ -660,7 +664,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "1:45 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 3
     },
     {
       "clinic": "Tiny Tots",
@@ -669,7 +675,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:15 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 4
     },
     {
       "clinic": "Tiny Tots",
@@ -678,7 +686,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "6:45 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 5
     },
     {
       "clinic": "Tiny Tots",
@@ -687,7 +697,9 @@
       "capacity": 10,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 6
     },
     {
       "clinic": "Tiny Tots",
@@ -696,7 +708,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "12:45 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 1,
+      "secondary_sort": 7
     },
     {
       "clinic": "Red Pre-Rally",
@@ -705,7 +719,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 1
     },
     {
       "clinic": "Red Pre-Rally",
@@ -714,7 +730,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 2
     },
     {
       "clinic": "Red Pre-Rally",
@@ -723,7 +741,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 3
     },
     {
       "clinic": "Red Pre-Rally",
@@ -732,7 +752,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 4
     },
     {
       "clinic": "Red Pre-Rally",
@@ -741,7 +763,9 @@
       "capacity": 10,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 5
     },
     {
       "clinic": "Red Pre-Rally",
@@ -750,7 +774,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 2,
+      "secondary_sort": 6
     },
     {
       "clinic": "Red Ball",
@@ -759,7 +785,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 1
     },
     {
       "clinic": "Red Ball",
@@ -768,7 +796,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 2
     },
     {
       "clinic": "Red Ball",
@@ -777,7 +807,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 3
     },
     {
       "clinic": "Red Ball",
@@ -786,7 +818,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 4
     },
     {
       "clinic": "Red Ball",
@@ -795,7 +829,9 @@
       "capacity": 10,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 5
     },
     {
       "clinic": "Red Ball",
@@ -804,7 +840,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 6
     },
     {
       "clinic": "Red Ball",
@@ -813,7 +851,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 3,
+      "secondary_sort": 7
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -822,7 +862,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 1
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -831,7 +873,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 2
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -840,7 +884,9 @@
       "capacity": 10,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 3
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -849,7 +895,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 4
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -858,7 +906,9 @@
       "capacity": 10,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 5
     },
     {
       "clinic": "Orange Pre-Rally",
@@ -867,7 +917,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 4,
+      "secondary_sort": 6
     },
     {
       "clinic": "TEEN 1",
@@ -876,7 +928,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 5,
+      "secondary_sort": 1
     },
     {
       "clinic": "TEEN 1",
@@ -885,7 +939,9 @@
       "capacity": 10,
       "start_time": "7:00 PM",
       "end_time": "8:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 5,
+      "secondary_sort": 2
     },
     {
       "clinic": "TEEN 1",
@@ -894,7 +950,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 5,
+      "secondary_sort": 3
     },
     {
       "clinic": "Orange 2",
@@ -903,7 +961,9 @@
       "capacity": 10,
       "start_time": "4:30 PM",
       "end_time": "6:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 6,
+      "secondary_sort": 1
     },
     {
       "clinic": "Orange 2",
@@ -912,7 +972,9 @@
       "capacity": 10,
       "start_time": "4:30 PM",
       "end_time": "6:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 6,
+      "secondary_sort": 2
     },
     {
       "clinic": "Orange 2",
@@ -921,7 +983,9 @@
       "capacity": 10,
       "start_time": "2:00 PM",
       "end_time": "3:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 6,
+      "secondary_sort": 3
     },
     {
       "clinic": "Orange 2",
@@ -930,7 +994,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "1:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 6,
+      "secondary_sort": 4
     },
     {
       "clinic": "Green Ball ",
@@ -939,7 +1005,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 7,
+      "secondary_sort": 1
     },
     {
       "clinic": "Green Ball ",
@@ -948,7 +1016,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 7,
+      "secondary_sort": 2
     },
     {
       "clinic": "Green Ball ",
@@ -957,7 +1027,9 @@
       "capacity": 10,
       "start_time": "1:30 PM",
       "end_time": "3:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 7,
+      "secondary_sort": 3
     },
     {
       "clinic": "Yellow Ball",
@@ -966,7 +1038,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 1
     },
     {
       "clinic": "Yellow Ball",
@@ -975,7 +1049,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 2
     },
     {
       "clinic": "Yellow Ball",
@@ -984,7 +1060,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 3
     },
     {
       "clinic": "Yellow Ball",
@@ -993,7 +1071,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 4
     },
     {
       "clinic": "Yellow Ball",
@@ -1002,7 +1082,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 5
     },
     {
       "clinic": "Yellow Ball",
@@ -1011,7 +1093,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 6
     },
     {
       "clinic": "Yellow Ball",
@@ -1020,7 +1104,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 7
     },
     {
       "clinic": "Yellow Ball",
@@ -1029,7 +1115,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 8
     },
     {
       "clinic": "Yellow Ball",
@@ -1038,7 +1126,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 8,
+      "secondary_sort": 9
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1047,7 +1137,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 1
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1056,7 +1148,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 2
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1065,7 +1159,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 3
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1074,7 +1170,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 4
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1083,7 +1181,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 5
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1092,7 +1192,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 6
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1101,7 +1203,9 @@
       "capacity": 10,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 7
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1110,7 +1214,9 @@
       "capacity": 10,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 8
     },
     {
       "clinic": "Yellow Ball Open",
@@ -1119,7 +1225,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 9,
+      "secondary_sort": 9
     },
     {
       "clinic": "Level 1",
@@ -1128,7 +1236,9 @@
       "capacity": 10,
       "start_time": "12:00 PM",
       "end_time": "1:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 10,
+      "secondary_sort": 1
     },
     {
       "clinic": "Level 1",
@@ -1137,7 +1247,9 @@
       "capacity": 10,
       "start_time": "11:00 AM",
       "end_time": "12:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 10,
+      "secondary_sort": 2
     },
     {
       "clinic": "Level 1",
@@ -1146,7 +1258,9 @@
       "capacity": 10,
       "start_time": "9:00 AM",
       "end_time": "10:30 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 10,
+      "secondary_sort": 3
     },
     {
       "clinic": "Level 1",
@@ -1155,7 +1269,9 @@
       "capacity": 10,
       "start_time": "9:30 AM",
       "end_time": "11:00 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 10,
+      "secondary_sort": 4
     },
     {
       "clinic": "Level 2",
@@ -1164,7 +1280,9 @@
       "capacity": 10,
       "start_time": "10:30 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 11,
+      "secondary_sort": 1
     },
     {
       "clinic": "Level 2",
@@ -1173,7 +1291,9 @@
       "capacity": 10,
       "start_time": "10:30 AM",
       "end_time": "12:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 11,
+      "secondary_sort": 2
     },
     {
       "clinic": "Level 2",
@@ -1182,7 +1302,9 @@
       "capacity": 10,
       "start_time": "9:00 AM",
       "end_time": "10:30 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 11,
+      "secondary_sort": 3
     },
     {
       "clinic": "Level 2",
@@ -1191,7 +1313,9 @@
       "capacity": 10,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 11,
+      "secondary_sort": 4
     },
     {
       "clinic": "Level 3",
@@ -1200,7 +1324,9 @@
       "capacity": 10,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 12,
+      "secondary_sort": 1
     },
     {
       "clinic": "Level 3",
@@ -1209,7 +1335,9 @@
       "capacity": 10,
       "start_time": "9:00 PM",
       "end_time": "10:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 12,
+      "secondary_sort": 2
     },
     {
       "clinic": "Level 3",
@@ -1218,7 +1346,9 @@
       "capacity": 10,
       "start_time": "1:00 PM",
       "end_time": "2:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 12,
+      "secondary_sort": 3
     },
     {
       "clinic": "Level 3",
@@ -1227,7 +1357,9 @@
       "capacity": 10,
       "start_time": "7:00 PM",
       "end_time": "8:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 12,
+      "secondary_sort": 4
     },
     {
       "clinic": "Level 3",
@@ -1236,7 +1368,9 @@
       "capacity": 10,
       "start_time": "9:30 AM",
       "end_time": "11:00 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 12,
+      "secondary_sort": 5
     },
     {
       "clinic": "Level 4",
@@ -1245,7 +1379,9 @@
       "capacity": 10,
       "start_time": "12:30 PM",
       "end_time": "2:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 13,
+      "secondary_sort": 1
     },
     {
       "clinic": "Level 4",
@@ -1254,7 +1390,9 @@
       "capacity": 10,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 13,
+      "secondary_sort": 2
     },
     {
       "clinic": "Level 4",
@@ -1263,7 +1401,9 @@
       "capacity": 10,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 13,
+      "secondary_sort": 3
     },
     {
       "clinic": "Level 4",
@@ -1272,7 +1412,9 @@
       "capacity": 10,
       "start_time": "2:00 PM",
       "end_time": "3:30 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 13,
+      "secondary_sort": 4
     },
     {
       "clinic": "Cardio",
@@ -1281,7 +1423,9 @@
       "capacity": 10,
       "start_time": "9:00 AM",
       "end_time": "10:00 AM",
-      "notes": "5 weeks only"
+      "notes": "5 weeks only",
+      "primary_sort": 14,
+      "secondary_sort": 1
     },
     {
       "clinic": "Cardio",
@@ -1290,7 +1434,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": "5 weeks only"
+      "notes": "5 weeks only",
+      "primary_sort": 14,
+      "secondary_sort": 2
     },
     {
       "clinic": "Cardio",
@@ -1299,7 +1445,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 14,
+      "secondary_sort": 3
     },
     {
       "clinic": "Cardio",
@@ -1308,7 +1456,9 @@
       "capacity": 10,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 14,
+      "secondary_sort": 4
     },
     {
       "clinic": "Cardio",
@@ -1317,7 +1467,9 @@
       "capacity": 10,
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 14,
+      "secondary_sort": 5
     },
     {
       "clinic": "Cardio",
@@ -1326,7 +1478,9 @@
       "capacity": 10,
       "start_time": "9:00 AM",
       "end_time": "10:00 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 14,
+      "secondary_sort": 6
     },
     {
       "clinic": "Cardio",
@@ -1335,7 +1489,9 @@
       "capacity": 10,
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
-      "notes": ""
+      "notes": "",
+      "primary_sort": 14,
+      "secondary_sort": 7
     }
   ],
   "tournaments": [
