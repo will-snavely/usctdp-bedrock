@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d241f66f0717a5c8a4f538d007ca4826",
+    "content-hash": "a3c1f8771166398836f020afa426707f",
     "packages": [
         {
             "name": "berlindb/core",
@@ -7611,6 +7611,24 @@
                 }
             ],
             "time": "2026-04-26T05:33:54+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/magic-login-mail",
+            "version": "2.07",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/magic-login-mail/",
+                "reference": "tags/2.07"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/magic-login-mail.2.07.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/magic-login-mail/"
         },
         {
             "name": "wpackagist-plugin/user-switching",
