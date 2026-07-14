@@ -60,7 +60,7 @@
     "hcd/usctdp-mgmt": "@dev",
     "berlindb/core": "^2.0",
     "phpoffice/phpword": "^1.1",
-    "wpackagist-plugin/magic-login-mail": "^2.07"
+    "wpackagist-plugin/magic-login": "^2.8"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
