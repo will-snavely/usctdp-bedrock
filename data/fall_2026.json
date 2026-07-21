@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "Session I Mondays (Cardio)",
+      "name": "Session I, Mondays Only (Cardio)",
       "category": "Cardio Tennis",
       "length_weeks": 5,
       "start_date": "2026-08-24T04:00:00.000Z",
@@ -963,7 +963,7 @@
     {
       "clinic": "Cardio Tennis",
       "session": [
-        "Session I Short (Cardio)",
+        "Session I, Mondays Only (Cardio)",
         "Session II (Cardio)",
         "Session III (Cardio)",
         "Session IV (Cardio)"
@@ -982,7 +982,7 @@
     {
       "clinic": "Cardio Tennis",
       "session": [
-        "Session I Short (Cardio)",
+        "Session I, Mondays Only (Cardio)",
         "Session II (Cardio)",
         "Session III (Cardio)",
         "Session IV (Cardio)"
@@ -1462,7 +1462,7 @@
     },
     {
       "clinic": "Cardio Tennis",
-      "session": "Session I Short (Cardio)",
+      "session": "Session I, Mondays Only (Cardio)",
       "duration": "5 Weeks",
       "1_day_price": 160,
       "2_day_price": "",
