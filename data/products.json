@@ -61,7 +61,7 @@
       "image_id": "1u1mND5jS9UTVlTujp0jusAgsp5JUVN3K"
     },
     {
-      "name": "Orange 2",
+      "name": "Orange Ball",
       "code": "orange",
       "session_category": "Junior: Advanced",
       "age_group": "Juniors",
@@ -109,7 +109,7 @@
       "image_id": "1V4bOPgXOgTQK63cMyTgxqiWd0lRthwlL"
     },
     {
-      "name": "Level 1",
+      "name": "Level 1 (Adult)",
       "code": "adult1",
       "session_category": "Adult",
       "age_group": "Adults",
@@ -121,7 +121,7 @@
       "image_id": "1rs1Da8ZgzFwPbav2zakDLlBRb_1vxfTE"
     },
     {
-      "name": "Level 2",
+      "name": "Level 2 (Adult)",
       "code": "adult2",
       "session_category": "Adult",
       "age_group": "Adults",
@@ -133,7 +133,7 @@
       "image_id": "1BLOBhhnp7NPP2yC-xqrSVPLiu2v75LRE"
     },
     {
-      "name": "Level 3",
+      "name": "Level 3 (Adult)",
       "code": "adult3",
       "session_category": "Adult",
       "age_group": "Adults",
@@ -145,7 +145,7 @@
       "image_id": "1CgLPerkXwF0_mlxrEVEuWPPNa_nCXfrQ"
     },
     {
-      "name": "Level 4",
+      "name": "Level 4 (Adult)",
       "code": "adult4",
       "session_category": "Adult",
       "age_group": "Adults",
@@ -157,14 +157,14 @@
       "image_id": "1GWlasB8Y0y09Ci75br6hznZ8u3rKSpez"
     },
     {
-      "name": "Cardio",
+      "name": "Cardio Tennis",
       "code": "cardio",
       "type": "cardio",
       "session_category": "Cardio Tennis",
       "age_group": "Adults",
-      "level": "Intermediate",
+      "level": "Varies",
       "age_range": "18+",
-      "description": "Cardio Tennis is a high-energy group fitness experience which uses the sport of tennis in a structured game based format to deliver the ultimate, full body, calorie-burning aerobic workout.",
+      "description": "Cardio Tennis is a high-energy group fitness experience which uses the sport of tennis in a structured game-based format to deliver the ultimate, full-body, calorie-burning aerobic workout. For more information, contact our Cardio Tennis Director, Marcy: (412)-398-6066 OR e-mail marcyb93@me.com.",
       "short_description": "Aerobic tennis exercise, for adults.",
       "image_link": "https://drive.google.com/file/d/1ziAA9NWASa7JWWQusM6n19INVLTuZD1Z/view?usp=sharing",
       "image_id": "1ziAA9NWASa7JWWQusM6n19INVLTuZD1Z"
@@ -176,7 +176,7 @@
       "code": "adult-rr-singles",
       "age_group": "Adults",
       "session_category": "Adult Tournaments",
-      "description": "Placeholder",
+      "description": "Minimum of 6 matches, one match per week. If you are in doubt about which level you belong in, a pro will place you in the appropriate flight. All matches held at the USC Bubbles. Match times may vary weekly. 10 game pro-sets, no-ad scoring.",
       "short_description": "A round-robin singles tennis tournament for adult players.",
       "image_link": "https://drive.google.com/file/d/14n23znag5baNyYayOOn56rAjlzrkl5tV/view?usp=sharing",
       "image_id": "14n23znag5baNyYayOOn56rAjlzrkl5tV"
@@ -186,7 +186,7 @@
       "code": "junior-rr-singles",
       "age_group": "Juniors",
       "session_category": "Junior Tournaments",
-      "description": "Placeholder",
+      "description": "Minimum of 6 Matches, all matches are supervised. If you are in doubt about which level you belong in, a pro will place you in the appropriate flight.",
       "short_description": "A round-robin singles tennis tournament for junior players.",
       "image_link": "https://drive.google.com/file/d/1EOI9whWbeX769qEfvHj_iHNGcSDJxOyX/view?usp=sharing",
       "image_id": "1EOI9whWbeX769qEfvHj_iHNGcSDJxOyX"
@@ -196,7 +196,7 @@
       "code": "world-team-tennis",
       "age_group": "Juniors",
       "session_category": "Junior Tournaments",
-      "description": "Placeholder",
+      "description": "All matches are supervised. 3 players per team (team size is based on the number of participants). Both Singles and Doubles will be played at every match.",
       "short_description": "A team tournament for juniors, featuring both singles and doubles.",
       "image_link": "https://drive.google.com/file/d/1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4/view?usp=sharing",
       "image_id": "1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4"
@@ -205,7 +205,7 @@
   "merchandise": [
     {
       "name": "Racket",
-      "description": "WIlson tennis racket.",
+      "description": "Wilson tennis racket.",
       "price": 150,
       "code": "racket"
     },
