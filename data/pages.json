@@ -3,7 +3,6 @@
   "permalink_structure": "/%postname%/",
   "woocommerce": {
     "disable_reviews": true,
-    "disable_image_zoom": true,
     "classic_cart": true,
     "classic_checkout": true
   },
