@@ -1,5 +1,5 @@
 {
-  "_comment": "Source of truth for WP page structure + primary nav menu. Applied via `wp usctdp import_pages data/pages.json`. Only covers pages that back a real wp_posts row (post_type=page) via a Blade 'Template Name' template. Routes with no WP page (e.g. /programming/juniors/, /our-team/{slug}/ — see resources/views/routes/web.php) are NOT listed here; link to them from the menu with a 'url' entry instead. Menu items take exactly one of: 'page' (slug from the pages array above), 'url' (a site-relative path, prefixed with home_url()), or 'external' (a full off-site URL, used as-is). 'permalink_structure' is optional; when set, it's applied via WP's rewrite API (same as Settings -> Permalinks) so pages resolve to clean URLs instead of ?page_id=N. 'woocommerce' is optional; its keys map to WooCommerce -> Settings -> Products toggles, plus 'classic_cart'/'classic_checkout' which overwrite the auto-created Cart/Checkout pages' content with the [woocommerce_cart]/[woocommerce_checkout] shortcodes in place of the block editor markup.",
+  "_comment": "Source of truth for WP page structure + primary nav menu. Applied via `wp usctdp import_pages data/pages.json`. Only covers pages that back a real wp_posts row (post_type=page) via a Blade 'Template Name' template. Routes with no WP page (e.g. /programming/juniors/, /our-team/{slug}/ — see resources/views/routes/web.php) are NOT listed here; link to them from the menu with a 'url' entry instead. Menu items take exactly one of: 'page' (slug from the pages array above), 'url' (a site-relative path, prefixed with home_url()), or 'external' (a full off-site URL, used as-is). 'permalink_structure' is optional; when set, it's applied via WP's rewrite API (same as Settings -> Permalinks) so pages resolve to clean URLs instead of ?page_id=N. 'woocommerce' is optional; its keys map to WooCommerce -> Settings -> Products toggles, plus 'classic_cart'/'classic_checkout' which overwrite the auto-created Cart/Checkout pages' content with the [woocommerce_cart]/[woocommerce_checkout] shortcodes in place of the block editor markup. 'forms' is optional; each entry is matched to an existing Contact Form 7 form by 'title' (created if missing) and its 'form'/'mail'/'messages' keys are written directly onto CF7's own property structure (WPCF7_ContactForm::get_properties()), same as saving the form in wp-admin -> Contact -> Contact Forms. Requires the contact-form-7 plugin (wpackagist-plugin/contact-form-7 in composer.json) to be active; the import warns and skips forms otherwise.",
   "permalink_structure": "/%postname%/",
   "woocommerce": {
     "disable_reviews": true,
@@ -103,5 +103,22 @@
         "external": "https://shieldsembroidery.tuosystems.com/stores/usctdp2024"
       }
     ]
-  }
+  },
+  "forms": [
+    {
+      "title": "Contact Page Form",
+      "form": "<div class=\"grid grid-cols-1 sm:grid-cols-2 gap-5\">\n  <div class=\"flex flex-col gap-1.5\">\n    <label for=\"contact-name\" class=\"text-sm font-semibold text-slate-700\">Name <span class=\"text-red-500\" aria-hidden=\"true\">*</span></label>\n    [text* your-name id:contact-name autocomplete:name class:contact-input placeholder \"Your full name\"]\n  </div>\n\n  <div class=\"flex flex-col gap-1.5\">\n    <label for=\"contact-email\" class=\"text-sm font-semibold text-slate-700\">Email <span class=\"text-red-500\" aria-hidden=\"true\">*</span></label>\n    [email* your-email id:contact-email autocomplete:email class:contact-input placeholder \"you@example.com\"]\n  </div>\n</div>\n\n<div class=\"flex flex-col gap-1.5\">\n  <label for=\"contact-subject\" class=\"text-sm font-semibold text-slate-700\">Subject</label>\n  [text your-subject id:contact-subject autocomplete:off class:contact-input placeholder \"What's this about?\"]\n</div>\n\n<div class=\"flex flex-col gap-1.5\">\n  <label for=\"contact-message\" class=\"text-sm font-semibold text-slate-700\">Message <span class=\"text-red-500\" aria-hidden=\"true\">*</span></label>\n  [textarea* your-message id:contact-message class:contact-input class:resize-y placeholder \"How can we help you?\"]\n</div>\n\n<div>\n  [submit class:contact-submit \"Send Message\"]\n</div>",
+      "mail": {
+        "subject": "New contact form message: [your-subject]",
+        "sender": "[your-name] <wordpress@usctdp.com>",
+        "recipient": "tennis@usctdp.com",
+        "additional_headers": "Reply-To: [your-email]",
+        "body": "From: [your-name] <[your-email]>\nSubject: [your-subject]\n\nMessage Body:\n[your-message]\n\n--\nThis email was sent from the contact form on usctdp.com (IP address: [_remote_ip])"
+      },
+      "messages": {
+        "mail_sent_ok": "Thank you for reaching out! We'll get back to you as soon as possible.",
+        "mail_sent_ng": "Something went wrong. Please try again or email us directly at tennis@usctdp.com."
+      }
+    }
+  ]
 }
