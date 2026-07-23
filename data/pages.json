@@ -1,6 +1,12 @@
 {
-  "_comment": "Source of truth for WP page structure + primary nav menu. Applied via `wp usctdp import_pages data/pages.json`. Only covers pages that back a real wp_posts row (post_type=page) via a Blade 'Template Name' template. Routes with no WP page (e.g. /programming/juniors/, /our-team/{slug}/ — see resources/views/routes/web.php) are NOT listed here; link to them from the menu with a 'url' entry instead. Menu items take exactly one of: 'page' (slug from the pages array above), 'url' (a site-relative path, prefixed with home_url()), or 'external' (a full off-site URL, used as-is). 'permalink_structure' is optional; when set, it's applied via WP's rewrite API (same as Settings -> Permalinks) so pages resolve to clean URLs instead of ?page_id=N.",
+  "_comment": "Source of truth for WP page structure + primary nav menu. Applied via `wp usctdp import_pages data/pages.json`. Only covers pages that back a real wp_posts row (post_type=page) via a Blade 'Template Name' template. Routes with no WP page (e.g. /programming/juniors/, /our-team/{slug}/ — see resources/views/routes/web.php) are NOT listed here; link to them from the menu with a 'url' entry instead. Menu items take exactly one of: 'page' (slug from the pages array above), 'url' (a site-relative path, prefixed with home_url()), or 'external' (a full off-site URL, used as-is). 'permalink_structure' is optional; when set, it's applied via WP's rewrite API (same as Settings -> Permalinks) so pages resolve to clean URLs instead of ?page_id=N. 'woocommerce' is optional; its keys map to WooCommerce -> Settings -> Products toggles, plus 'classic_cart'/'classic_checkout' which overwrite the auto-created Cart/Checkout pages' content with the [woocommerce_cart]/[woocommerce_checkout] shortcodes in place of the block editor markup.",
   "permalink_structure": "/%postname%/",
+  "woocommerce": {
+    "disable_reviews": true,
+    "disable_image_zoom": true,
+    "classic_cart": true,
+    "classic_checkout": true
+  },
   "pages": [
     {
       "slug": "about",
