@@ -117,6 +117,29 @@ Config::define('LOGGED_IN_SALT', env('LOGGED_IN_SALT'));
 Config::define('NONCE_SALT', env('NONCE_SALT'));
 
 /**
+ * WP Mail SMTP - configuring it here (rather than through its admin UI)
+ * keeps the credentials in .env instead of the database, consistent with
+ * every other secret in this file. Works with any provider that exposes a
+ * standard SMTP endpoint (Postmark, SES, SendGrid, Mailgun, etc.) - only
+ * defined when SMTP_HOST is set, so environments without it configured fall
+ * back to WP Mail SMTP's own admin UI (or plain wp_mail()) unaffected.
+ */
+if (env('SMTP_HOST')) {
+    Config::define('WPMS_ON', true);
+    Config::define('WPMS_MAILER', 'smtp');
+    Config::define('WPMS_SMTP_HOST', env('SMTP_HOST'));
+    Config::define('WPMS_SMTP_PORT', env('SMTP_PORT') ?: 587);
+    Config::define('WPMS_SSL', env('SMTP_ENCRYPTION') ?: 'tls');
+    Config::define('WPMS_SMTP_AUTH', true);
+    Config::define('WPMS_SMTP_USER', env('SMTP_USER'));
+    Config::define('WPMS_SMTP_PASS', env('SMTP_PASS'));
+    Config::define('WPMS_MAIL_FROM', env('SMTP_FROM_EMAIL'));
+    if (env('SMTP_FROM_NAME')) {
+        Config::define('WPMS_MAIL_FROM_NAME', env('SMTP_FROM_NAME'));
+    }
+}
+
+/**
  * Custom Settings
  */
 Config::define('AUTOMATIC_UPDATER_DISABLED', true);

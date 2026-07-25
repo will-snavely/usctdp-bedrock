@@ -36,6 +36,11 @@
       "slug": "our-team",
       "title": "Our Team",
       "template": "staff/archive.blade.php"
+    },
+    {
+      "slug": "confirm-import",
+      "title": "Confirm Your Account",
+      "template": "pages/import-confirm.blade.php"
     }
   ],
   "menus": {

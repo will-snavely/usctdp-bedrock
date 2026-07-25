@@ -61,7 +61,8 @@
     "berlindb/core": "^2.0",
     "phpoffice/phpword": "^1.1",
     "wpackagist-plugin/magic-login": "^2.8",
-    "wpackagist-plugin/contact-form-7": "^6.1"
+    "wpackagist-plugin/contact-form-7": "^6.1",
+    "wpackagist-plugin/wp-mail-smtp": "^4.9"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
