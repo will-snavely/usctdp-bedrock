@@ -246,7 +246,7 @@
     },
     {
       "name": "Adult Singles Round Robin (Fall)",
-      "category": "Adult Singles Round Robin",
+      "category": "Adult Tournaments",
       "length_weeks": 6,
       "start_date": "2026-11-09T05:00:00.000Z",
       "end_date": "2027-02-20T05:00:00.000Z",
@@ -255,7 +255,7 @@
     },
     {
       "name": "Adult Singles Round Robin (Winter)",
-      "category": "Adult Singles Round Robin",
+      "category": "Adult Tournaments",
       "length_weeks": 6,
       "start_date": "2027-02-22T05:00:00.000Z",
       "end_date": "2027-05-16T04:00:00.000Z",
@@ -263,7 +263,7 @@
     },
     {
       "name": "Junior Singles Round Robin (Fall)",
-      "category": "Junior Singles Round Robin",
+      "category": "Junior Tournaments",
       "length_weeks": 6,
       "start_date": "2026-11-07T05:00:00.000Z",
       "end_date": "2027-02-10T05:00:00.000Z",
@@ -272,7 +272,7 @@
     },
     {
       "name": "Junior World Team Tennis",
-      "category": "World Team Tennis",
+      "category": "Junior Tournaments",
       "length_weeks": 6,
       "start_date": "2027-02-13T05:00:00.000Z",
       "end_date": "2027-05-16T04:00:00.000Z",
