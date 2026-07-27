@@ -63,6 +63,7 @@
     "wpackagist-plugin/magic-login": "^2.8",
     "wpackagist-plugin/contact-form-7": "^6.1",
     "wpackagist-plugin/wp-mail-smtp": "^4.9",
+    "wpackagist-plugin/two-factor": "^0.16",
     "sentry/sentry": "^4.29"
   },
   "require-dev": {

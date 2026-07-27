@@ -129,8 +129,16 @@ if (env('SMTP_HOST')) {
     Config::define('WPMS_MAILER', 'smtp');
     Config::define('WPMS_SMTP_HOST', env('SMTP_HOST'));
     Config::define('WPMS_SMTP_PORT', env('SMTP_PORT') ?: 587);
-    Config::define('WPMS_SSL', env('SMTP_ENCRYPTION') ?: 'tls');
-    Config::define('WPMS_SMTP_AUTH', true);
+    // wp-mail-smtp's WPMS_SSL constant must be a literal '' for "no
+    // encryption" (see wp_mail_smtp.php's own WPMS_SSL definition) - 'none'
+    // is only the option's display label, not a value the plugin accepts,
+    // so translate it here rather than pass the env var straight through.
+    $smtp_encryption = env('SMTP_ENCRYPTION') ?: 'tls';
+    Config::define('WPMS_SSL', $smtp_encryption === 'none' ? '' : $smtp_encryption);
+    // Only attempt AUTH when credentials are actually configured - dev's
+    // Mailpit container has no auth/TLS, and forcing an AUTH attempt against
+    // a server that doesn't support it fails the SMTP handshake outright.
+    Config::define('WPMS_SMTP_AUTH', (bool) env('SMTP_USER'));
     Config::define('WPMS_SMTP_USER', env('SMTP_USER'));
     Config::define('WPMS_SMTP_PASS', env('SMTP_PASS'));
     Config::define('WPMS_MAIL_FROM', env('SMTP_FROM_EMAIL'));
