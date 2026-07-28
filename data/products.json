@@ -6,11 +6,13 @@
       "session_category": "Junior: Beginner",
       "age_group": "Juniors",
       "level": "Beginner",
-      "age_range": "4 and up",
+      "age_range": "4.5 and up",
       "description": "Introduce your child to the world of tennis! We focus on early motor skills and hand-eye coordination through fun, active games. Note: children must be able to stay without a parent, and must be potty-trained.",
-      "short_description": "Big fun for little athletes! Ages 4 and up.",
+      "short_description": "Big fun for little athletes! Ages 4.5 and up.",
       "image_link": "https://drive.google.com/file/d/16dQxKet_-iP5QGV8GCZBYVT6zZ3rDY1B/view?usp=sharing",
-      "image_id": "16dQxKet_-iP5QGV8GCZBYVT6zZ3rDY1B"
+      "image_id": "16dQxKet_-iP5QGV8GCZBYVT6zZ3rDY1B",
+      "flyer_link": "https://drive.google.com/file/d/1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK/view?usp=drive_link",
+      "flyer_id": "1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK"
     },
     {
       "name": "Red Pre-Rally",
@@ -22,7 +24,9 @@
       "description": "Students will learn the fundamentals of strokes and grips, and will become familiar with the court. Basic rally skills will be developed along with movement, balance, and coordination. In addition, students will learn basic strategy and scoring. All play is on 36-foot courts using low-compression red balls.",
       "short_description": "Introduction to tennis basics for children age 5 to 8.",
       "image_link": "https://drive.google.com/file/d/1cgz3_FM3cUfCcpfEO0-oTS4UCJPI2Qk9/view?usp=drive_link",
-      "image_id": "1cgz3_FM3cUfCcpfEO0-oTS4UCJPI2Qk9"
+      "image_id": "1cgz3_FM3cUfCcpfEO0-oTS4UCJPI2Qk9",
+      "flyer_link": "https://drive.google.com/file/d/1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK/view?usp=drive_link",
+      "flyer_id": "1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK"
     },
     {
       "name": "Red Ball",
@@ -34,7 +38,12 @@
       "description": "For junior students 5+ who have tested out of the Pre-Rally class. In this class there is emphasis on shaping the strokes as well as learning different types of spins. The overhead serve is introduced, rally tactics and strategy are learned and directional control of the ball will be emphasized. Students are also encouraged to compete in tournaments. All play is on 36-foot courts using low-compression red balls.",
       "short_description": "For younger children who can sustain a rally, ages 5 to 8.",
       "image_link": "https://drive.google.com/file/d/1N-vu9-fqYzXo15O3Fn5gQOHv4tl2PPE8/view?usp=drive_link",
-      "image_id": "1N-vu9-fqYzXo15O3Fn5gQOHv4tl2PPE8"
+      "image_id": "1N-vu9-fqYzXo15O3Fn5gQOHv4tl2PPE8",
+      "flyer_link": "https://drive.google.com/file/d/1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK/view?usp=drive_link",
+      "flyer_id": "1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK",
+      "meta": {
+        "subtitle_text": "5 and up, Tested out of Pre-Rally"
+      }
     },
     {
       "name": "Orange Pre-Rally",
@@ -46,7 +55,12 @@
       "description": "This clinic is designed for 8+ children who are new or returning to tennis. All play is on 60’ tennis courts with 50% compression tennis balls. Movement, balance, receiving/sending skills, and stroke production are emphasized along with basic rallying skills.",
       "short_description": "Introductory tennis for children 8 and up.",
       "image_link": "https://drive.google.com/file/d/16FL0FOsVXAigk_BOsGdKBa_lRzrEygt-/view?usp=drive_link",
-      "image_id": "16FL0FOsVXAigk_BOsGdKBa_lRzrEygt-"
+      "image_id": "16FL0FOsVXAigk_BOsGdKBa_lRzrEygt-",
+      "meta": {
+        "subtitle_text": "8 and up, New and Returning Players"
+      },
+      "flyer_link": "https://drive.google.com/file/d/1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK/view?usp=drive_link",
+      "flyer_id": "1NHPri4UpsSkKv68JP0cKX9rL_AaIMmtK"
     },
     {
       "name": "TEEN 1",
@@ -58,19 +72,26 @@
       "description": "The Teen 1 program is for teenagers who are relatively new to tennis. Students will be exposed to all the basic skills of tennis including rallying, groundstrokes, volleys, overheads and serves. Players will also develop basic sportsmanship, learning to cooperate and compete with their peers.",
       "short_description": "Introductory tennis for juniors age 12 to 17.",
       "image_link": "https://drive.google.com/file/d/1u1mND5jS9UTVlTujp0jusAgsp5JUVN3K/view?usp=sharing",
-      "image_id": "1u1mND5jS9UTVlTujp0jusAgsp5JUVN3K"
+      "image_id": "1u1mND5jS9UTVlTujp0jusAgsp5JUVN3K",
+      "flyer_link": "https://drive.google.com/file/d/1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts/view?usp=drive_link",
+      "flyer_id": "1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts",
+      "meta": {
+        "level_text": "Beginner/Advanced Beginner"
+      }
     },
     {
-      "name": "Orange Ball",
+      "name": "Advanced Orange Ball",
       "code": "orange",
       "session_category": "Junior: Advanced",
       "age_group": "Juniors",
       "level": "Intermediate",
-      "age_range": "12 - 17",
+      "age_range": "",
       "description": "This class will introduce junior players to intermediate tennis skills. Swing rhythm on the forehands and backhands will be emphasized. Students will be introduced to topspin, and will learn how to differentiate between a volley action and a groundstroke action. A variety of serve progressions will be taught, and serve/serve return will be covered in each class.",
       "short_description": "Intermediate tennis skills for juniors age 12 to 17.",
       "image_link": "https://drive.google.com/file/d/1ASmUI3KaDyEY0HfxXqRZfzLETsPRgDLK/view?usp=sharing",
-      "image_id": "1ASmUI3KaDyEY0HfxXqRZfzLETsPRgDLK"
+      "image_id": "1ASmUI3KaDyEY0HfxXqRZfzLETsPRgDLK",
+      "flyer_link": "https://drive.google.com/file/d/1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts/view?usp=drive_link",
+      "flyer_id": "1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts"
     },
     {
       "name": "Green Ball ",
@@ -78,11 +99,16 @@
       "session_category": "Junior: Advanced",
       "age_group": "Juniors",
       "level": "Intermediate",
-      "age_range": "12 - 17",
+      "age_range": "",
       "description": "This class will further develop your child's technical and tactical skills, emphasizing all-court tennis. Students will run drills that train movement, recovery and decision-making. Situational and competitive play in the fundamental five play situations will be covered throught he course. This is the final development stage before the students enter the Junior Competitive Program.",
       "short_description": "Preparation for competitive play",
       "image_link": "https://drive.google.com/file/d/199CA6YQ09XTKZhQenPJ_1SdyD1u9Uf9y/view?usp=sharing",
-      "image_id": "199CA6YQ09XTKZhQenPJ_1SdyD1u9Uf9y"
+      "image_id": "199CA6YQ09XTKZhQenPJ_1SdyD1u9Uf9y",
+      "flyer_link": "https://drive.google.com/file/d/1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts/view?usp=drive_link",
+      "flyer_id": "1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts",
+      "meta": {
+        "level_text": "High Intermediate"
+      }
     },
     {
       "name": "Yellow Ball",
@@ -90,11 +116,13 @@
       "session_category": "Junior: Advanced",
       "age_group": "Juniors",
       "level": "Advanced",
-      "age_range": "12 - 17",
+      "age_range": "",
       "description": "Further development for juniors looking to play competitive tennis. Students will improve their stroke mechanics/consistency, footwork, and anticipation skills, and moreover will learn sound match play tactics,",
       "short_description": "Further development of competitive play skills for juniors age 12 to 17.",
       "image_link": "https://drive.google.com/file/d/1YkhknWqpMKiNzBFv0bxJEL9NmUq9Hcf5/view?usp=sharing",
-      "image_id": "1YkhknWqpMKiNzBFv0bxJEL9NmUq9Hcf5"
+      "image_id": "1YkhknWqpMKiNzBFv0bxJEL9NmUq9Hcf5",
+      "flyer_link": "https://drive.google.com/file/d/1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts/view?usp=drive_link",
+      "flyer_id": "1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts"
     },
     {
       "name": "Yellow Ball Open",
@@ -102,11 +130,16 @@
       "session_category": "Junior: Advanced",
       "age_group": "Juniors",
       "level": "Advanced",
-      "age_range": "12 - 17",
+      "age_range": "",
       "description": "This class is for tournament players who have earned a competitive National or Sectional ranking. Students will improve match play performance with emphasis on footwork, conditioning, match play tactics, mechanics, mental toughness and sportsmanship.",
       "short_description": "Honing competitive tennis skills for junior ranked players age 12 to 17.",
       "image_link": "https://drive.google.com/file/d/1V4bOPgXOgTQK63cMyTgxqiWd0lRthwlL/view?usp=sharing",
-      "image_id": "1V4bOPgXOgTQK63cMyTgxqiWd0lRthwlL"
+      "image_id": "1V4bOPgXOgTQK63cMyTgxqiWd0lRthwlL",
+      "flyer_link": "https://drive.google.com/file/d/1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts/view?usp=drive_link",
+      "flyer_id": "1NoVdt3DA1TEw37GmH_xcUHpoJWH8a_Ts",
+      "meta": {
+        "level_text": "Advanced +"
+      }
     },
     {
       "name": "Level 1 (Adult)",
@@ -118,19 +151,26 @@
       "description": "Introductory tennis course for adults who are new to the game.",
       "short_description": "Introductory adult tennis.",
       "image_link": "https://drive.google.com/file/d/1rs1Da8ZgzFwPbav2zakDLlBRb_1vxfTE/view?usp=sharing",
-      "image_id": "1rs1Da8ZgzFwPbav2zakDLlBRb_1vxfTE"
+      "image_id": "1rs1Da8ZgzFwPbav2zakDLlBRb_1vxfTE",
+      "flyer_link": "https://drive.google.com/file/d/1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q/view?usp=drive_link",
+      "flyer_id": "1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q"
     },
     {
       "name": "Level 2 (Adult)",
       "code": "adult2",
       "session_category": "Adult",
       "age_group": "Adults",
-      "level": "Intermediate",
+      "level": "Beginner",
       "age_range": "18+",
       "description": "A tennis course for adults who have basic tennis skiils, who want to further refine their fundamentals.",
       "short_description": "Tennis for more advanced adult beginners.",
       "image_link": "https://drive.google.com/file/d/1BLOBhhnp7NPP2yC-xqrSVPLiu2v75LRE/view?usp=sharing",
-      "image_id": "1BLOBhhnp7NPP2yC-xqrSVPLiu2v75LRE"
+      "image_id": "1BLOBhhnp7NPP2yC-xqrSVPLiu2v75LRE",
+      "flyer_link": "https://drive.google.com/file/d/1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q/view?usp=drive_link",
+      "flyer_id": "1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q",
+      "meta": {
+        "level_text": "Advanced Beginner"
+      }
     },
     {
       "name": "Level 3 (Adult)",
@@ -142,7 +182,9 @@
       "description": "A tennis class for intermediate adult players.",
       "short_description": "Intermediate adult tennis.",
       "image_link": "https://drive.google.com/file/d/1CgLPerkXwF0_mlxrEVEuWPPNa_nCXfrQ/view?usp=sharing",
-      "image_id": "1CgLPerkXwF0_mlxrEVEuWPPNa_nCXfrQ"
+      "image_id": "1CgLPerkXwF0_mlxrEVEuWPPNa_nCXfrQ",
+      "flyer_link": "https://drive.google.com/file/d/1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q/view?usp=drive_link",
+      "flyer_id": "1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q"
     },
     {
       "name": "Level 4 (Adult)",
@@ -154,7 +196,12 @@
       "description": "A tennis class for more advanced adult players.",
       "short_description": "Advanced adult tennis.",
       "image_link": "https://drive.google.com/file/d/1GWlasB8Y0y09Ci75br6hznZ8u3rKSpez/view?usp=sharing",
-      "image_id": "1GWlasB8Y0y09Ci75br6hznZ8u3rKSpez"
+      "image_id": "1GWlasB8Y0y09Ci75br6hznZ8u3rKSpez",
+      "flyer_link": "https://drive.google.com/file/d/1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q/view?usp=drive_link",
+      "flyer_id": "1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q",
+      "meta": {
+        "level_text": "High Intermediate"
+      }
     },
     {
       "name": "Cardio Tennis",
@@ -167,7 +214,9 @@
       "description": "Cardio Tennis is a high-energy group fitness experience which uses the sport of tennis in a structured game-based format to deliver the ultimate, full-body, calorie-burning aerobic workout. For more information, contact our Cardio Tennis Director, Marcy: (412)-398-6066 OR e-mail marcyb93@me.com.",
       "short_description": "Aerobic tennis exercise, for adults.",
       "image_link": "https://drive.google.com/file/d/1ziAA9NWASa7JWWQusM6n19INVLTuZD1Z/view?usp=sharing",
-      "image_id": "1ziAA9NWASa7JWWQusM6n19INVLTuZD1Z"
+      "image_id": "1ziAA9NWASa7JWWQusM6n19INVLTuZD1Z",
+      "flyer_link": "https://drive.google.com/file/d/1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q/view?usp=drive_link",
+      "flyer_id": "1pkM9dChvpuu7B94HIbpLD0tyIELFdR8Q"
     }
   ],
   "tournaments": [
@@ -180,7 +229,9 @@
       "description": "Minimum of 6 matches, one match per week. If you are in doubt about which level you belong in, a pro will place you in the appropriate flight. All matches held at the USC Bubbles. Match times may vary weekly. 10 game pro-sets, no-ad scoring.",
       "short_description": "A round-robin singles tennis tournament for adult players.",
       "image_link": "https://drive.google.com/file/d/14n23znag5baNyYayOOn56rAjlzrkl5tV/view?usp=sharing",
-      "image_id": "14n23znag5baNyYayOOn56rAjlzrkl5tV"
+      "image_id": "14n23znag5baNyYayOOn56rAjlzrkl5tV",
+      "flyer_link": "https://drive.google.com/file/d/1e4eEXUvlexrrARxg4n6fdDQ2p8NEyGpk/view?usp=drive_link",
+      "flyer_id": "1e4eEXUvlexrrARxg4n6fdDQ2p8NEyGpk"
     },
     {
       "name": "Junior Singles Round Robin",
@@ -191,7 +242,9 @@
       "description": "Minimum of 6 Matches, all matches are supervised. If you are in doubt about which level you belong in, a pro will place you in the appropriate flight.",
       "short_description": "A round-robin singles tennis tournament for junior players.",
       "image_link": "https://drive.google.com/file/d/1EOI9whWbeX769qEfvHj_iHNGcSDJxOyX/view?usp=sharing",
-      "image_id": "1EOI9whWbeX769qEfvHj_iHNGcSDJxOyX"
+      "image_id": "1EOI9whWbeX769qEfvHj_iHNGcSDJxOyX",
+      "flyer_link": "https://drive.google.com/file/d/12QeoUEURSR9lNIUT3h1vOkpJGfBsQKAj/view?usp=drive_link",
+      "flyer_id": "12QeoUEURSR9lNIUT3h1vOkpJGfBsQKAj"
     },
     {
       "name": "World Team Tennis",
@@ -202,7 +255,9 @@
       "description": "All matches are supervised. 3 players per team (team size is based on the number of participants). Both Singles and Doubles will be played at every match.",
       "short_description": "A team tournament for juniors, featuring both singles and doubles.",
       "image_link": "https://drive.google.com/file/d/1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4/view?usp=sharing",
-      "image_id": "1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4"
+      "image_id": "1Gy4O3wmVRNrugeAb9GaXh6CrHepWWNG4",
+      "flyer_link": "https://drive.google.com/file/d/12QeoUEURSR9lNIUT3h1vOkpJGfBsQKAj/view?usp=drive_link",
+      "flyer_id": "12QeoUEURSR9lNIUT3h1vOkpJGfBsQKAj"
     }
   ],
   "merchandise": [

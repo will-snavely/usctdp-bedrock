@@ -26,7 +26,7 @@
       "session_category": "Junior: Beginner"
     },
     {
-      "name": "Orange Ball",
+      "name": "Advanced Orange Ball",
       "code": "orange",
       "session_category": "Junior: Advanced"
     },
@@ -591,7 +591,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": [],
       "level": 3.5,
       "day": "Monday",
@@ -601,7 +601,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": [],
       "level": 3.5,
       "day": "Friday",
@@ -611,7 +611,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": [],
       "level": 3.5,
       "day": "Saturday",
@@ -621,7 +621,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": [],
       "level": 3.5,
       "day": "Sunday",
@@ -886,8 +886,8 @@
       "level": 3,
       "day": "Wednesday",
       "capacity": 10,
-      "start_time": "9:00 PM",
-      "end_time": "10:30 PM",
+      "start_time": "9:00 AM",
+      "end_time": "10:30 AM",
       "notes": ""
     },
     {
@@ -1237,7 +1237,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": "Session A",
       "duration": "6 Weeks",
       "1_day_price": 228,
@@ -1245,7 +1245,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": "Session B",
       "duration": "12 Weeks",
       "1_day_price": 457,
@@ -1253,7 +1253,7 @@
       "notes": ""
     },
     {
-      "clinic": "Orange Ball",
+      "clinic": "Advanced Orange Ball",
       "session": "Session C",
       "duration": "12 Weeks",
       "1_day_price": 457,
