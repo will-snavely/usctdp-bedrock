@@ -58,7 +58,7 @@
             "page": "our-team"
           },
           {
-            "label": "Successes",
+            "label": "Our Successes",
             "page": "successes"
           },
           {
@@ -72,12 +72,48 @@
         "page": "programming",
         "children": [
           {
+            "label": "Our Programs",
+            "page": "programming"
+          },
+          {
             "label": "Junior Programs",
-            "url": "/programming/juniors/"
+            "url": "/programming/juniors/",
+            "children": [
+              {
+                "label": "Beginners/Advanced Beginners",
+                "url": "/programming/schedule/?age_group=juniors&type=clinic"
+              },
+              {
+                "label": "Intermediate: Orange/Green Ball",
+                "url": "/programming/schedule/?age_group=juniors&level=intermediate&type=clinic"
+              },
+              {
+                "label": "Advanced: Yellow Ball",
+                "url": "/programming/schedule/?age_group=juniors&level=advanced&type=clinic"
+              },
+              {
+                "label": "Round Robins",
+                "url": "/programming/schedule/?age_group=juniors&type=tournament"
+              }
+            ]
           },
           {
             "label": "Adult Programs",
-            "url": "/programming/adults/"
+            "url": "/programming/adults/",
+            "children": [
+              {
+                "label": "Clinics, All Levels",
+                "url": "/programming/schedule/?age_group=adults&type=clinic"
+              },
+              {
+                "label": "Cardio Tennis",
+                "url": "/programming/schedule/?age_group=adults&type=cardio"
+              },
+              {
+                "label": "Round Robins",
+                "url": "/programming/schedule/?age_group=adults&type=tournament"
+              }
+            ]
           },
           {
             "label": "Register",
