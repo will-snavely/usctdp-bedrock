@@ -102,7 +102,7 @@
             "url": "/programming/adults/",
             "children": [
               {
-                "label": "Clinics, All Levels",
+                "label": "Clinics: All Levels",
                 "url": "/programming/schedule/?age_group=adults&type=clinic"
               },
               {
