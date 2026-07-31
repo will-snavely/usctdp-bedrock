@@ -81,7 +81,7 @@
             "children": [
               {
                 "label": "Beginners/Advanced Beginners",
-                "url": "/programming/schedule/?age_group=juniors&type=clinic"
+                "url": "/programming/schedule/?age_group=juniors&level=beginner&type=clinic"
               },
               {
                 "label": "Intermediate: Orange/Green Ball",
