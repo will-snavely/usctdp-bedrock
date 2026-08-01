@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "655f97b1a5c07c994dd364510d2c3260",
+    "content-hash": "4780df850385a98ad5ed13ec18378d63",
     "packages": [
         {
             "name": "berlindb/core",
@@ -5123,20 +5123,20 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.9.2",
+            "version": "6.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
-                "reference": "2fa44383ade9e8ccbb986e95ca70a365c8221eb1"
+                "reference": "eb3d108f216618a858dcaed691e00e68f0ccff9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roots/wordpress/zipball/2fa44383ade9e8ccbb986e95ca70a365c8221eb1",
-                "reference": "2fa44383ade9e8ccbb986e95ca70a365c8221eb1",
+                "url": "https://api.github.com/repos/roots/wordpress/zipball/eb3d108f216618a858dcaed691e00e68f0ccff9f",
+                "reference": "eb3d108f216618a858dcaed691e00e68f0ccff9f",
                 "shasum": ""
             },
             "require": {
-                "roots/wordpress-core-installer": "^3.0",
+                "roots/wordpress-core-installer": "^4.0",
                 "roots/wordpress-no-content": "self.version"
             },
             "type": "metapackage",
@@ -5154,7 +5154,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/6.9.2"
+                "source": "https://github.com/roots/wordpress/tree/7.0.2"
             },
             "funding": [
                 {
@@ -5162,24 +5162,24 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-09T19:47:29+00:00"
+            "time": "2026-03-22T13:26:54+00:00"
         },
         {
             "name": "roots/wordpress-core-installer",
-            "version": "3.0.0",
+            "version": "v4.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress-core-installer.git",
-                "reference": "714d2e2a9e523f6e7bde4810d5a04aedf0ec217f"
+                "reference": "85d3589252eb93eee836facf33b54ce30c565bea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/roots/wordpress-core-installer/zipball/714d2e2a9e523f6e7bde4810d5a04aedf0ec217f",
-                "reference": "714d2e2a9e523f6e7bde4810d5a04aedf0ec217f",
+                "url": "https://api.github.com/repos/roots/wordpress-core-installer/zipball/85d3589252eb93eee836facf33b54ce30c565bea",
+                "reference": "85d3589252eb93eee836facf33b54ce30c565bea",
                 "shasum": ""
             },
             "require": {
-                "composer-plugin-api": "^1.0 || ^2.0",
+                "composer-plugin-api": "^2.0",
                 "php": ">=7.2.24"
             },
             "conflict": {
@@ -5189,7 +5189,7 @@
                 "johnpbloch/wordpress-core-installer": "*"
             },
             "require-dev": {
-                "composer/composer": "^1.0 || ^2.0",
+                "composer/composer": "^2.0",
                 "phpunit/phpunit": "^8.5"
             },
             "type": "composer-plugin",
@@ -5221,7 +5221,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress-core-installer/issues",
-                "source": "https://github.com/roots/wordpress-core-installer/tree/3.0.0"
+                "source": "https://github.com/roots/wordpress-core-installer/tree/v4.0.0"
             },
             "funding": [
                 {
@@ -5229,27 +5229,27 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-05-23T18:47:25+00:00"
+            "time": "2026-03-22T03:17:23+00:00"
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.9.2",
+            "version": "6.9.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.9.2"
+                "reference": "6.9.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.w.org/release/wordpress-6.9.2-no-content.zip",
-                "reference": "6.9.2",
-                "shasum": "38c71754a09877f38424efa9261ad7d3b15dc892"
+                "url": "https://downloads.w.org/release/wordpress-6.9.5-no-content.zip",
+                "reference": "6.9.5",
+                "shasum": "08ee0c30ca5d8151f85a8c2ab985b54ca0495668"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.9.2"
+                "wordpress/core-implementation": "6.9.5"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -5300,7 +5300,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-03-10T15:59:44+00:00"
+            "time": "2026-07-17T18:39:02+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -7860,24 +7860,6 @@
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
         },
         {
-            "name": "wpackagist-plugin/magic-login",
-            "version": "2.8",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/magic-login/",
-                "reference": "tags/2.8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/magic-login.2.8.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/magic-login/"
-        },
-        {
             "name": "wpackagist-plugin/two-factor",
             "version": "0.16.0",
             "source": {
@@ -7989,16 +7971,16 @@
     "packages-dev": [
         {
             "name": "laravel/pint",
-            "version": "v1.30.0",
+            "version": "v1.30.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/pint.git",
-                "reference": "72a0540d1aa10b6c146bda2a22f3ae003123c0ea"
+                "reference": "de440809cb86055b43e7ae979bed3baf8d29ef5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/pint/zipball/72a0540d1aa10b6c146bda2a22f3ae003123c0ea",
-                "reference": "72a0540d1aa10b6c146bda2a22f3ae003123c0ea",
+                "url": "https://api.github.com/repos/laravel/pint/zipball/de440809cb86055b43e7ae979bed3baf8d29ef5a",
+                "reference": "de440809cb86055b43e7ae979bed3baf8d29ef5a",
                 "shasum": ""
             },
             "require": {
@@ -8010,7 +7992,7 @@
             },
             "require-dev": {
                 "composer/semver": "^3.4.4",
-                "friendsofphp/php-cs-fixer": "^3.95.17",
+                "friendsofphp/php-cs-fixer": "^3.95.18",
                 "illuminate/view": "^12.64.0",
                 "larastan/larastan": "^3.10.0",
                 "laravel-zero/framework": "^12.1.0",
@@ -8055,7 +8037,7 @@
                 "issues": "https://github.com/laravel/pint/issues",
                 "source": "https://github.com/laravel/pint"
             },
-            "time": "2026-07-28T20:48:56+00:00"
+            "time": "2026-08-01T01:14:35+00:00"
         },
         {
             "name": "myclabs/deep-copy",
@@ -8733,12 +8715,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "65b89988ea149da6864f93c3030fd5c24991431d"
+                "reference": "3c9ad688ad8826203588ec49363f73f4deb590c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/65b89988ea149da6864f93c3030fd5c24991431d",
-                "reference": "65b89988ea149da6864f93c3030fd5c24991431d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3c9ad688ad8826203588ec49363f73f4deb590c1",
+                "reference": "3c9ad688ad8826203588ec49363f73f4deb590c1",
                 "shasum": ""
             },
             "conflict": {
@@ -9211,7 +9193,7 @@
                 "librenms/librenms": "<26.3",
                 "liftkit/database": "<2.13.2",
                 "lightsaml/lightsaml": "<1.3.5",
-                "limesurvey/limesurvey": "<6.15.4",
+                "limesurvey/limesurvey": "<=7.0.0.0-beta1",
                 "livehelperchat/livehelperchat": "<=3.91",
                 "livewire-filemanager/filemanager": "<=1.0.4",
                 "livewire/livewire": "<2.12.7|>=3.0.0.0-beta1,<3.6.4",
@@ -9452,7 +9434,7 @@
                 "rap2hpoutre/laravel-log-viewer": "<0.13",
                 "react/http": ">=0.7,<1.9",
                 "really-simple-plugins/complianz-gdpr": "<6.4.2",
-                "redaxo/source": "<5.21",
+                "redaxo/source": "<5.21.1",
                 "remdex/livehelperchat": "<4.29",
                 "renolit/reint-downloadmanager": "<4.0.2|>=5,<5.0.1",
                 "reportico-web/reportico": "<=8.1",
@@ -9566,6 +9548,7 @@
                 "sylius/admin-bundle": ">=1,<1.0.17|>=1.1,<1.1.9|>=1.2,<1.2.2",
                 "sylius/grid": ">=1,<1.1.19|>=1.2,<1.2.18|>=1.3,<1.3.13|>=1.4,<1.4.5|>=1.5,<1.5.1",
                 "sylius/grid-bundle": "<1.10.1",
+                "sylius/mollie-plugin": "<2.2.8|>=3,<3.2.4|>=3.3,<3.3.1",
                 "sylius/paypal-plugin": "<1.6.2|>=1.7,<1.7.2|>=2,<2.0.2",
                 "sylius/resource-bundle": ">=1,<1.3.14|>=1.4,<1.4.7|>=1.5,<1.5.2|>=1.6,<1.6.4",
                 "sylius/sylius": "<1.9.12|>=1.10,<1.10.16|>=1.11,<1.11.17|>=1.12,<=1.12.22|>=1.13,<=1.13.14|>=1.14,<=1.14.17|>=2,<2.0.18|>=2.1,<2.1.15|>=2.2,<2.2.6",
@@ -9744,7 +9727,7 @@
                 "woocommerce/woocommerce": "<6.6|>=8.8,<8.8.5|>=8.9,<8.9.3",
                 "wp-cli/wp-cli": ">=0.12,<2.5",
                 "wp-coding-standards/wpcs": ">=0.14.1,<3.4.1",
-                "wp-graphql/wp-graphql": "<=1.14.5",
+                "wp-graphql/wp-graphql": "<=2.6",
                 "wp-premium/gravityforms": "<2.4.21",
                 "wpanel/wpanel4-cms": "<=4.3.1",
                 "wpcloud/wp-stateless": "<3.2",
@@ -9850,7 +9833,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-30T23:07:05+00:00"
+            "time": "2026-08-01T00:01:24+00:00"
         },
         {
             "name": "sebastian/cli-parser",
