@@ -38,8 +38,10 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(wp-(admin|includes).*) wp/$1 [L]
 
+# FIX: Added RewriteCond to prevent recursive prepend of 'wp/' if file doesn't exist
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/wp/
 RewriteRule ^(.*\.php)$ wp/$1 [L]
 
 # Everything else — including pretty permalinks — goes through Bedrock's
