@@ -285,7 +285,7 @@
       "session": [],
       "level": 1,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "3:30 PM",
       "end_time": "4:15 PM",
       "notes": ""
@@ -295,7 +295,7 @@
       "session": [],
       "level": 1,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "10:00 AM",
       "end_time": "10:45 AM",
       "notes": ""
@@ -305,7 +305,7 @@
       "session": [],
       "level": 1,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "1:00 PM",
       "end_time": "1:45 PM",
       "notes": ""
@@ -315,7 +315,7 @@
       "session": [],
       "level": 1,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "3:30 PM",
       "end_time": "4:15 PM",
       "notes": ""
@@ -325,7 +325,7 @@
       "session": [],
       "level": 1,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "6:00 PM",
       "end_time": "6:45 PM",
       "notes": ""
@@ -335,7 +335,7 @@
       "session": [],
       "level": 1,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "11:00 AM",
       "end_time": "11:45 AM",
       "notes": ""
@@ -345,7 +345,7 @@
       "session": [],
       "level": 1,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "12:00 PM",
       "end_time": "12:45 PM",
       "notes": ""
@@ -353,9 +353,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -363,9 +363,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -373,9 +373,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -383,9 +383,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -393,9 +393,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
       "notes": ""
@@ -403,9 +403,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
       "notes": "Verify"
@@ -413,9 +413,9 @@
     {
       "clinic": "Red Pre-Rally",
       "session": [],
-      "level": 1.5,
+      "level": 1,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -423,7 +423,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Monday",
       "capacity": 10,
       "start_time": "3:30 PM",
@@ -433,7 +433,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Monday",
       "capacity": 10,
       "start_time": "6:00 PM",
@@ -443,7 +443,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Friday",
       "capacity": 10,
       "start_time": "3:30 PM",
@@ -453,7 +453,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Friday",
       "capacity": 10,
       "start_time": "6:00 PM",
@@ -463,7 +463,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Sunday",
       "capacity": 10,
       "start_time": "11:00 AM",
@@ -473,7 +473,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Sunday",
       "capacity": 10,
       "start_time": "12:00 PM",
@@ -483,7 +483,7 @@
     {
       "clinic": "Red Ball",
       "session": [],
-      "level": 2,
+      "level": "1.5-2",
       "day": "Sunday",
       "capacity": 10,
       "start_time": "1:00 PM",
@@ -493,9 +493,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -503,9 +503,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 18,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -513,9 +513,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -523,9 +523,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -533,9 +533,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
       "notes": ""
@@ -543,9 +543,9 @@
     {
       "clinic": "Orange Pre-Rally",
       "session": [],
-      "level": 2.5,
+      "level": "1-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
       "notes": "Verify"
@@ -555,7 +555,7 @@
       "session": [],
       "level": 2.5,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 6,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -563,9 +563,9 @@
     {
       "clinic": "TEEN 1",
       "session": [],
-      "level": 3,
+      "level": "1-2",
       "day": "Wednesday",
-      "capacity": 10,
+      "capacity": 6,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -573,9 +573,9 @@
     {
       "clinic": "TEEN 1",
       "session": [],
-      "level": 3,
+      "level": "1-2",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 6,
       "start_time": "7:00 PM",
       "end_time": "8:00 PM",
       "notes": ""
@@ -583,9 +583,9 @@
     {
       "clinic": "TEEN 1",
       "session": [],
-      "level": 3,
+      "level": "1-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -593,9 +593,9 @@
     {
       "clinic": "Advanced Orange Ball",
       "session": [],
-      "level": 3.5,
+      "level": 3,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "4:30 PM",
       "end_time": "6:00 PM",
       "notes": ""
@@ -603,9 +603,9 @@
     {
       "clinic": "Advanced Orange Ball",
       "session": [],
-      "level": 3.5,
+      "level": 3,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "4:30 PM",
       "end_time": "6:00 PM",
       "notes": ""
@@ -613,9 +613,9 @@
     {
       "clinic": "Advanced Orange Ball",
       "session": [],
-      "level": 3.5,
+      "level": 3,
       "day": "Saturday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "2:00 PM",
       "end_time": "3:30 PM",
       "notes": ""
@@ -623,49 +623,49 @@
     {
       "clinic": "Advanced Orange Ball",
       "session": [],
-      "level": 3.5,
+      "level": 3,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 6,
       "start_time": "12:00 PM",
       "end_time": "1:30 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Ball ",
+      "clinic": "Green Ball",
       "session": [],
-      "level": 4,
+      "level": 3.5,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 6,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Ball ",
+      "clinic": "Green Ball",
       "session": [],
-      "level": 4,
+      "level": 3.5,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Ball ",
+      "clinic": "Green Ball",
       "session": [],
-      "level": 4,
+      "level": 3.5,
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
     },
     {
-      "clinic": "Green Ball ",
+      "clinic": "Green Ball",
       "session": [],
-      "level": 4,
+      "level": 3.5,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "1:30 PM",
       "end_time": "3:30 PM",
       "notes": ""
@@ -673,9 +673,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4.0-4.5",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -683,9 +683,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4.5-5",
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 35,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
       "notes": ""
@@ -693,9 +693,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4-4.5",
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 32,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -703,9 +703,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4.5-5",
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 30,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
       "notes": ""
@@ -713,9 +713,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4.5-5.5",
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 35,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -723,9 +723,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4.0-4.5",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -733,9 +733,9 @@
     {
       "clinic": "Yellow Ball",
       "session": [],
-      "level": 4.5,
+      "level": "4-5",
       "day": "Saturday",
-      "capacity": 10,
+      "capacity": 24,
       "start_time": "12:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -795,7 +795,7 @@
       "session": [],
       "level": 1,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "12:00 PM",
       "end_time": "1:30 PM",
       "notes": ""
@@ -805,7 +805,7 @@
       "session": [],
       "level": 1,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "11:00 AM",
       "end_time": "12:30 PM",
       "notes": ""
@@ -815,7 +815,7 @@
       "session": [],
       "level": 1,
       "day": "Wednesday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "9:00 AM",
       "end_time": "10:30 AM",
       "notes": ""
@@ -845,7 +845,7 @@
       "session": [],
       "level": 2,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "10:30 AM",
       "end_time": "12:00 PM",
       "notes": ""
@@ -855,7 +855,7 @@
       "session": [],
       "level": 2,
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "9:00 AM",
       "end_time": "10:30 AM",
       "notes": ""
@@ -875,7 +875,7 @@
       "session": [],
       "level": 3,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 12,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
       "notes": ""
@@ -905,7 +905,7 @@
       "session": [],
       "level": 3,
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "7:00 PM",
       "end_time": "8:30 PM",
       "notes": ""
@@ -915,7 +915,7 @@
       "session": [],
       "level": 3,
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "9:30 AM",
       "end_time": "11:00 AM",
       "notes": ""
@@ -925,7 +925,7 @@
       "session": [],
       "level": 4,
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "12:30 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -935,7 +935,7 @@
       "session": [],
       "level": 4,
       "day": "Wednesday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
       "notes": ""
@@ -945,7 +945,7 @@
       "session": [],
       "level": 4,
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 5,
       "start_time": "8:00 PM",
       "end_time": "9:30 PM",
       "notes": ""
@@ -968,9 +968,9 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 2,
+      "level": "N/A",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 9,
       "start_time": "9:00 AM",
       "end_time": "10:00 AM",
       "meta": {
@@ -987,9 +987,9 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 3,
+      "level": "N/A",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "meta": {
@@ -1006,9 +1006,9 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 2,
+      "level": "N/A",
       "day": "Wednesday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "meta": {
@@ -1025,9 +1025,9 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 2,
+      "level": "N/A",
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
       "meta": {
@@ -1044,9 +1044,9 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 2,
+      "level": "N/A",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 17,
       "start_time": "9:00 AM",
       "end_time": "10:00 AM",
       "meta": {
@@ -1063,14 +1063,14 @@
         "Session III (Cardio)",
         "Session IV (Cardio)"
       ],
-      "level": 2,
+      "level": "N/A",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 17,
       "start_time": "10:00 AM",
       "end_time": "11:00 AM",
       "meta": {
         "level": "Intermediate",
-        "note": "Requires low to medium racket skills and medium to high fitness level."
+        "note": "Requires medium racket skills and medium to high fitness level."
       },
       "notes": ""
     }
@@ -1466,7 +1466,12 @@
       "duration": "5 Weeks",
       "1_day_price": 160,
       "2_day_price": "",
-      "notes": ""
+      "notes": "",
+      "meta": {
+        "show_days": [
+          "Monday"
+        ]
+      }
     },
     {
       "clinic": "Cardio Tennis",
