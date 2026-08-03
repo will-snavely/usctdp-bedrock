@@ -201,7 +201,7 @@
       "meta": {
         "note": "No clinics on 9/7.",
         "show_days": [
-	  "Monday"
+          "Monday"
         ]
       }
     },
@@ -214,7 +214,15 @@
       "season": "fall-winter",
       "active": true,
       "meta": {
-        "note": "No clinics on 9/7."
+        "note": "No clinics on 9/7.",
+        "show_days": [
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ]
       }
     },
     {
