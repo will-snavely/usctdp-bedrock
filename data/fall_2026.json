@@ -199,7 +199,10 @@
       "season": "fall-winter",
       "active": true,
       "meta": {
-        "note": "No clinics on 9/7."
+        "note": "No clinics on 9/7.",
+        "show_days": [
+	  "Monday"
+        ]
       }
     },
     {
@@ -1466,12 +1469,7 @@
       "duration": "5 Weeks",
       "1_day_price": 160,
       "2_day_price": "",
-      "notes": "",
-      "meta": {
-        "show_days": [
-          "Monday"
-        ]
-      }
+      "notes": ""
     },
     {
       "clinic": "Cardio Tennis",
