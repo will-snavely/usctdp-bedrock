@@ -159,6 +159,16 @@ Config::define('DISALLOW_FILE_EDIT', true);
 // Disable plugin and theme updates and installation from the admin
 Config::define('DISALLOW_FILE_MODS', true);
 
+// Force direct filesystem writes instead of WordPress's FTP-credential
+// guessing flow. Without this, get_filesystem_method()'s writability probe
+// sees the read-only core mount (see DISALLOW_FILE_MODS above) and decides
+// it needs FTP credentials - even for writes that only ever touch the
+// writable wp-content volume (e.g. Rank Math's sitemap cache). Since that
+// flow has no UI to collect credentials during a REST request, it proceeds
+// with a null FTP connection, which PHP 8 turns into a fatal TypeError
+// instead of the old silent-failure warning.
+Config::define('FS_METHOD', 'direct');
+
 // Limit the number of post revisions
 Config::define('WP_POST_REVISIONS', env('WP_POST_REVISIONS') ?? true);
 
