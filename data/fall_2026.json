@@ -436,7 +436,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -446,7 +446,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Monday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -456,7 +456,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "3:30 PM",
       "end_time": "4:30 PM",
       "notes": ""
@@ -466,7 +466,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Friday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "6:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -476,7 +476,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 16,
       "start_time": "11:00 AM",
       "end_time": "12:00 PM",
       "notes": ""
@@ -486,7 +486,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "12:00 PM",
       "end_time": "1:00 PM",
       "notes": ""
@@ -496,7 +496,7 @@
       "session": [],
       "level": "1.5-2",
       "day": "Sunday",
-      "capacity": 10,
+      "capacity": 8,
       "start_time": "1:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
@@ -756,7 +756,7 @@
       "session": [],
       "level": 4.5,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 35,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
       "notes": ""
@@ -766,7 +766,7 @@
       "session": [],
       "level": 4.5,
       "day": "Tuesday",
-      "capacity": 10,
+      "capacity": 32,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -776,7 +776,7 @@
       "session": [],
       "level": 4.5,
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 30,
       "start_time": "3:00 PM",
       "end_time": "5:00 PM",
       "notes": ""
@@ -786,7 +786,7 @@
       "session": [],
       "level": 4.5,
       "day": "Thursday",
-      "capacity": 10,
+      "capacity": 35,
       "start_time": "5:00 PM",
       "end_time": "7:00 PM",
       "notes": ""
@@ -796,7 +796,7 @@
       "session": [],
       "level": 4.5,
       "day": "Saturday",
-      "capacity": 10,
+      "capacity": 24,
       "start_time": "12:00 PM",
       "end_time": "2:00 PM",
       "notes": ""
