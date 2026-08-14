@@ -50,12 +50,12 @@
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
-    "roots/wordpress": "6.9.6",
+    "roots/wordpress": "6.9.7",
     "roots/wp-config": "1.0.0",
     "wpackagist-theme/twentytwentyfive": "^1.0",
     "wpackagist-plugin/woocommerce": "10.7.0",
     "wpackagist-plugin/woocommerce-paypal-payments":"4.0.3",
-    "wpackagist-plugin/user-switching":"1.11.1",
+    "wpackagist-plugin/user-switching":"1.12.1",
     "generoi/sage-woocommerce": "^1.1",
     "hcd/usctdp-mgmt": "@dev",
     "berlindb/core": "^2.0",
@@ -64,7 +64,9 @@
     "wpackagist-plugin/wp-mail-smtp": "^4.9",
     "wpackagist-plugin/two-factor": "^0.16",
     "sentry/sentry": "^4.29",
-    "wpackagist-plugin/seo-by-rank-math": "^1.0"
+    "wpackagist-plugin/seo-by-rank-math": "^1.0",
+    "wpackagist-plugin/redis-cache": "^2.6",
+    "wpackagist-plugin/cache-enabler": "^1.8"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",

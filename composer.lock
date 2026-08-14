@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a1b12c4b4c735a4a190533bcc4bdd7bf",
+    "content-hash": "e8ab668555491320ee937a0db407baed",
     "packages": [
         {
             "name": "berlindb/core",
@@ -5139,7 +5139,7 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.9.6",
+            "version": "6.9.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
@@ -5170,7 +5170,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/7.0.3"
+                "source": "https://github.com/roots/wordpress/tree/7.0.4"
             },
             "funding": [
                 {
@@ -5249,23 +5249,23 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.9.6",
+            "version": "6.9.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.9.6"
+                "reference": "6.9.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.w.org/release/wordpress-6.9.6-no-content.zip",
-                "reference": "6.9.6",
-                "shasum": "1df2ef0e7ec4d410694e893a318c7a6cbc7a5b09"
+                "url": "https://downloads.w.org/release/wordpress-6.9.7-no-content.zip",
+                "reference": "6.9.7",
+                "shasum": "32c7a1121934995d9399d78d6d7f848468a6318a"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.9.6"
+                "wordpress/core-implementation": "6.9.7"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -5316,7 +5316,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-08-06T21:41:48+00:00"
+            "time": "2026-08-12T14:47:32+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -7860,6 +7860,24 @@
             "time": "2026-04-26T05:33:54+00:00"
         },
         {
+            "name": "wpackagist-plugin/cache-enabler",
+            "version": "1.8.16",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cache-enabler/",
+                "reference": "tags/1.8.16"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cache-enabler.1.8.16.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cache-enabler/"
+        },
+        {
             "name": "wpackagist-plugin/contact-form-7",
             "version": "6.1.6",
             "source": {
@@ -7876,6 +7894,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
+        },
+        {
+            "name": "wpackagist-plugin/redis-cache",
+            "version": "2.8.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/redis-cache/",
+                "reference": "tags/2.8.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/redis-cache.2.8.0.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/redis-cache/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
@@ -7915,15 +7951,15 @@
         },
         {
             "name": "wpackagist-plugin/user-switching",
-            "version": "1.11.1",
+            "version": "1.12.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/user-switching/",
-                "reference": "tags/1.11.1"
+                "reference": "tags/1.12.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/user-switching.1.11.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/user-switching.1.12.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"

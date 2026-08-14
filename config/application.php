@@ -148,6 +148,22 @@ if (env('SMTP_HOST')) {
 }
 
 /**
+ * Persistent object cache (redis-cache plugin) + page cache (Cache Enabler
+ * plugin). WP_CACHE is what makes core look for wp-content/advanced-cache.php
+ * (Cache Enabler's page-cache drop-in) - harmless to set even before that
+ * plugin is active, since core just file_exists()-checks for it. The Redis
+ * object-cache.php drop-in loads independent of WP_CACHE, but still needs
+ * WP_REDIS_HOST/PORT defined to find the server. Only defined when
+ * REDIS_HOST is set, so dev/test - which don't run a redis container - fall
+ * back to the default non-persistent in-memory object cache unaffected.
+ */
+if (env('REDIS_HOST')) {
+    Config::define('WP_CACHE', true);
+    Config::define('WP_REDIS_HOST', env('REDIS_HOST'));
+    Config::define('WP_REDIS_PORT', env('REDIS_PORT') ?: 6379);
+}
+
+/**
  * Custom Settings
  */
 Config::define('AUTOMATIC_UPDATER_DISABLED', true);
