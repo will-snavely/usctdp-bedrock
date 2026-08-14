@@ -161,6 +161,25 @@ if (env('REDIS_HOST')) {
     Config::define('WP_CACHE', true);
     Config::define('WP_REDIS_HOST', env('REDIS_HOST'));
     Config::define('WP_REDIS_PORT', env('REDIS_PORT') ?: 6379);
+
+    // WooCommerce's wc_get_template()/wc_get_template_part() (wc-core-functions.php)
+    // cache the *resolved path* of a template - including generoi/sage-woocommerce's
+    // Acorn/Blade "loader" files - via wp_cache_get/set(..., 'woocommerce'), keyed
+    // only by template name + WC_VERSION, with no awareness that the path might
+    // point at web/app/cache/acorn, which is ephemeral and wiped on every web
+    // container restart. Without a persistent object cache this was harmless -
+    // that cache reset every request anyway, so a resolved path was always
+    // re-verified fresh. With Redis, the cached path survives past the restart
+    // that wiped the file it points to, so a later request gets a cache hit,
+    // skips template resolution (and any recompile) entirely, and hands
+    // wc_get_template() a path to a file that no longer exists - this is what
+    // took down /my-account/ on 2026-08-14 twice, independent of anything in
+    // ThemeServiceProvider::fixMakeLoaderMacro() (which is real and still worth
+    // keeping, just not what was actually firing here - that fix only helps
+    // when makeLoader() runs at all, and this cache hit skips calling it).
+    // Excluding just this one group keeps it back to the old, self-healing,
+    // resets-every-request behavior while everything else stays Redis-backed.
+    Config::define('WP_REDIS_IGNORED_GROUPS', ['woocommerce']);
 }
 
 /**
