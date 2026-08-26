@@ -79,7 +79,6 @@
       "start_date": "2026-08-24T04:00:00.000Z",
       "end_date": "2026-10-04T04:00:00.000Z",
       "season": "fall-winter",
-      "active": true,
       "meta": {
         "note": "No clinics on 9/7. Make-ups on 9/12, times TBA."
       }
@@ -121,7 +120,6 @@
       "start_date": "2026-08-24T04:00:00.000Z",
       "end_date": "2026-10-04T04:00:00.000Z",
       "season": "fall-winter",
-      "active": true,
       "meta": {
         "note": "Outdoor. No clinics on 9/7. Make-ups on 9/12, times TBA."
       }
@@ -155,7 +153,6 @@
       "start_date": "2026-08-24T04:00:00.000Z",
       "end_date": "2026-10-04T04:00:00.000Z",
       "season": "fall-winter",
-      "active": true,
       "meta": {
         "note": "No clinics on 9/7. Make-ups on 9/12, times TBA."
       }
@@ -197,7 +194,6 @@
       "start_date": "2026-08-24T04:00:00.000Z",
       "end_date": "2026-10-04T04:00:00.000Z",
       "season": "fall-winter",
-      "active": true,
       "meta": {
         "note": "No clinics on 9/7.",
         "show_days": [
@@ -212,7 +208,6 @@
       "start_date": "2026-08-24T04:00:00.000Z",
       "end_date": "2026-10-04T04:00:00.000Z",
       "season": "fall-winter",
-      "active": true,
       "meta": {
         "note": "No clinics on 9/7.",
         "show_days": [
@@ -261,8 +256,7 @@
       "length_weeks": 6,
       "start_date": "2026-11-09T05:00:00.000Z",
       "end_date": "2027-02-20T05:00:00.000Z",
-      "season": "fall-winter",
-      "active": true
+      "season": "fall-winter"
     },
     {
       "name": "Adult Singles Round Robin (Winter)",
@@ -278,8 +272,7 @@
       "length_weeks": 6,
       "start_date": "2026-11-07T05:00:00.000Z",
       "end_date": "2027-02-10T05:00:00.000Z",
-      "season": "fall-winter",
-      "active": true
+      "season": "fall-winter"
     },
     {
       "name": "Junior World Team Tennis",
