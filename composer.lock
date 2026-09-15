@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e646c8c03ff3699910e7fe1f22bd0de4",
+    "content-hash": "33daec79b8d7d0ae91defae88a3cc743",
     "packages": [
         {
             "name": "berlindb/core",
@@ -7914,24 +7914,6 @@
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
         },
         {
-            "name": "wpackagist-plugin/fluent-crm",
-            "version": "3.2.0",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/fluent-crm/",
-                "reference": "tags/3.2.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/fluent-crm.3.2.0.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/fluent-crm/"
-        },
-        {
             "name": "wpackagist-plugin/redis-cache",
             "version": "2.8.0",
             "source": {
@@ -7948,6 +7930,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/redis-cache/"
+        },
+        {
+            "name": "wpackagist-plugin/send-users-email",
+            "version": "2.0.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/send-users-email/",
+                "reference": "tags/2.0.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/send-users-email.2.0.3.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/send-users-email/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
