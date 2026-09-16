@@ -67,7 +67,7 @@
     "wpackagist-plugin/seo-by-rank-math": "^1.0",
     "wpackagist-plugin/redis-cache": "^2.6",
     "wpackagist-plugin/cache-enabler": "^1.8",
-    "wpackagist-plugin/send-users-email": "^2.0"
+    "wpackagist-plugin/fluent-crm": "^3.2"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
