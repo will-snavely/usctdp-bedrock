@@ -179,7 +179,17 @@ if (env('REDIS_HOST')) {
     // when makeLoader() runs at all, and this cache hit skips calling it).
     // Excluding just this one group keeps it back to the old, self-healing,
     // resets-every-request behavior while everything else stays Redis-backed.
-    Config::define('WP_REDIS_IGNORED_GROUPS', ['woocommerce']);
+    //
+    // FluentCRM's 'fluent_crm'/'fc_instant_options' groups (see
+    // helpers.php::fcache()/Helper::instantOption()) hit the same class of
+    // problem: a subscriber-list query result got cached with no
+    // invalidation when the underlying wp_fc_subscribers rows changed (seen
+    // 2026-09-16 - dashboard correctly showed 397 real subscribers straight
+    // from the DB, but the Contacts screen served a stale empty result
+    // until `wp cache flush`). Excluded for the same reason as woocommerce
+    // above: correctness over the caching win for a plugin whose own
+    // invalidation isn't reliable enough to trust with a persistent cache.
+    Config::define('WP_REDIS_IGNORED_GROUPS', ['woocommerce', 'fluent_crm', 'fc_instant_options']);
 }
 
 /**
