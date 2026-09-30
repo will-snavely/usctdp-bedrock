@@ -260,6 +260,92 @@
       "flyer_id": "12QeoUEURSR9lNIUT3h1vOkpJGfBsQKAj"
     }
   ],
+  "camps": [
+    {
+      "name": "Summer Camp: Orange Ball",
+      "code": "summer-camp-orange",
+      "age_group": "Juniors",
+      "level": "Intermediate",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1qUCnqg5pdWvkPXSeRDUZxlIjBhUFPnAo/view?usp=sharing",
+      "image_id": "1qUCnqg5pdWvkPXSeRDUZxlIjBhUFPnAo",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Camp: Green Ball",
+      "code": "summer-camp-green",
+      "age_group": "Juniors",
+      "level": "Intermediate",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1-G8SCHWvhYESycopzuL3KYlr0vsCjXkM/view?usp=sharing",
+      "image_id": "1-G8SCHWvhYESycopzuL3KYlr0vsCjXkM",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Camp: Yellow Ball",
+      "code": "summer-camp-yellow",
+      "age_group": "Juniors",
+      "level": "Advanced",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/17Wyh8z9vGLcYNmNbyMDQTB2GrbOdUynn/view?usp=sharing",
+      "image_id": "17Wyh8z9vGLcYNmNbyMDQTB2GrbOdUynn",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Camp: Match Play",
+      "code": "summer-camp-match-play",
+      "age_group": "Juniors",
+      "level": "Advanced",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1U5DbxAlo8cTqagmqZKuoJjcE80inihDN/view?usp=sharing",
+      "image_id": "1U5DbxAlo8cTqagmqZKuoJjcE80inihDN",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Tournament Champions",
+      "code": "summer-tournament-champions",
+      "age_group": "Juniors",
+      "level": "Advanced",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1CELsbgM_M5qqh52RAcnyAdMvWVT1Wjin/view?usp=sharing",
+      "image_id": "1CELsbgM_M5qqh52RAcnyAdMvWVT1Wjin",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Travel Team: Green Ball",
+      "code": "summer-travel-team-green",
+      "age_group": "Juniors",
+      "level": "Intermediate",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1kbCq8z9dA4fjgSL0l50IP2JPTBACBLdf/view?usp=sharing",
+      "image_id": "1kbCq8z9dA4fjgSL0l50IP2JPTBACBLdf",
+      "flyer_link": "",
+      "flyer_id": ""
+    },
+    {
+      "name": "Summer Travel Team: Yellow Ball",
+      "code": "summer-travel-team-yellow",
+      "age_group": "Juniors",
+      "level": "Advanced",
+      "session_category": "Camps",
+      "description": "placeholder",
+      "image_link": "https://drive.google.com/file/d/1GpnZY3ghmeXwvuJDowUxs-JNNggXBhXt/view?usp=sharing",
+      "image_id": "1GpnZY3ghmeXwvuJDowUxs-JNNggXBhXt",
+      "flyer_link": "",
+      "flyer_id": ""
+    }
+  ],
   "merchandise": [
     {
       "name": "Racket",
