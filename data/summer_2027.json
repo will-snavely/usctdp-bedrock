@@ -18,7 +18,7 @@
     },
     {
       "name": "Spring Session (Junior Advanced)",
-      "category": "Junior: Beginner",
+      "category": "Junior: Advanced",
       "length_weeks": 5,
       "start_date": "2027-05-04T04:00:00.000Z",
       "end_date": "2027-06-07T04:00:00.000Z",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Spring Session (Cardio)",
-      "category": "Adult",
+      "category": "Cardio Tennis",
       "length_weeks": 5,
       "start_date": "2027-05-04T04:00:00.000Z",
       "end_date": "2027-06-07T04:00:00.000Z",
@@ -60,13 +60,12 @@
     },
     {
       "name": "Spring Session, Mondays Only (Cardio)",
-      "category": "Adult",
+      "category": "Cardio Tennis",
       "length_weeks": 4,
       "start_date": "2027-05-04T04:00:00.000Z",
       "end_date": "2027-06-07T04:00:00.000Z",
       "season": "spring",
       "meta": {
-        "note": "No clinics on 9/7.",
         "show_days": [
           "Monday"
         ]
@@ -74,7 +73,7 @@
     },
     {
       "name": "Summer Session (Cardio)",
-      "category": "Adult",
+      "category": "Cardio Tennis",
       "length_weeks": 8,
       "start_date": "2027-06-08T04:00:00.000Z",
       "end_date": "2027-08-02T04:00:00.000Z",
@@ -85,11 +84,13 @@
       "category": "Junior Camp",
       "length_weeks": 10,
       "length_hours": 1.5,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "price_per_day": 38,
       "bulk_price": 35,
+      "bulk_threshold": 10,
+      "capacity": 99,
       "schedule": [
         {
           "day": "Monday",
@@ -111,13 +112,15 @@
     {
       "name": "Summer Camp: Green Ball",
       "category": "Junior Camp",
-      "length_weeks": 8,
+      "length_weeks": 10,
       "length_hours": 2,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "price_per_day": 46,
       "bulk_price": 43,
+      "bulk_threshold": 10,
+      "capacity": 99,
       "schedule": [
         {
           "day": "Monday",
@@ -141,11 +144,13 @@
       "category": "Junior Camp",
       "length_weeks": 10,
       "length_hours": 2.5,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "price_per_day": 54,
       "bulk_price": 51,
+      "bulk_threshold": 10,
+      "capacity": 99,
       "schedule": [
         {
           "day": "Monday",
@@ -174,11 +179,13 @@
       "category": "Junior Camp",
       "length_weeks": 10,
       "length_hours": 3,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "price_per_day": 67,
       "bulk_price": 62,
+      "bulk_threshold": 10,
+      "capacity": 99,
       "schedule": [
         {
           "day": "Tuesday",
@@ -193,13 +200,17 @@
       ]
     },
     {
-      "name": "Summer Match Play",
+      "name": "Summer Camp: Match Play",
       "category": "Junior Camp",
       "length_weeks": 10,
       "length_hours": 3,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
+      "price_per_day": 44,
+      "bulk_price": 41,
+      "bulk_threshold": 9,
+      "capacity": 99,
       "schedule": [
         {
           "day": "Wednesday",
@@ -212,8 +223,8 @@
       "name": "Summer Travel Team: Yellow Ball",
       "category": "Travel Team",
       "length_weeks": 10,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "packages": [
         {
@@ -252,8 +263,8 @@
       "name": "Summer Travel Team: Green Ball",
       "category": "Travel Team",
       "length_weeks": 10,
-      "start_date": "2027-06-09T04:00:00.000Z",
-      "end_date": "2027-08-14T04:00:00.000Z",
+      "start_date": "2027-06-07T04:00:00.000Z",
+      "end_date": "2027-08-16T04:00:00.000Z",
       "season": "summer",
       "packages": [
         {
@@ -787,16 +798,6 @@
       "level": 1,
       "day": "Monday",
       "capacity": 5,
-      "start_time": "12:00 PM",
-      "end_time": "1:30 PM",
-      "notes": ""
-    },
-    {
-      "clinic": "Level 1 (Adult)",
-      "session": [],
-      "level": 1,
-      "day": "Monday",
-      "capacity": 5,
       "start_time": "7:00 PM",
       "end_time": "8:30 PM",
       "notes": ""
@@ -1028,23 +1029,6 @@
     {
       "clinic": "Cardio Tennis",
       "session": [
-        "Spring Session, Mondays Only (Cardio)",
-        "Summer Session (Cardio)"
-      ],
-      "level": "N/A",
-      "day": "Monday",
-      "capacity": 9,
-      "start_time": "10:00 AM",
-      "end_time": "11:00 AM",
-      "meta": {
-        "level": "Intermediate",
-        "note": "FILL THIS IN"
-      },
-      "notes": ""
-    },
-    {
-      "clinic": "Cardio Tennis",
-      "session": [
         "Spring Session, Mondays Only (Cardio)"
       ],
       "level": "N/A",
@@ -1144,429 +1128,205 @@
       "notes": ""
     }
   ],
-  "class_pricing": [
+  "clinic_pricing": [
     {
       "clinic": "Tiny Tots",
-      "session": "Session I (Junior)",
-      "duration": "6 Weeks",
-      "1_day_price": 127,
-      "2_day_price": 234,
-      "notes": ""
-    },
-    {
-      "clinic": "Tiny Tots",
-      "session": "Session II (Junior)",
-      "duration": "9 Weeks",
-      "1_day_price": 190,
-      "2_day_price": 360,
+      "session": "Spring Session (Junior Beginner)",
+      "duration": "5 Weeks",
+      "1_day_price": 104,
+      "2_day_price": 188,
       "notes": ""
     },
     {
       "clinic": "Tiny Tots",
-      "session": "Session III (Junior)",
+      "session": "Summer Session (Junior Beginner)",
       "duration": "8 Weeks",
-      "1_day_price": 169,
-      "2_day_price": 318,
-      "notes": ""
-    },
-    {
-      "clinic": "Tiny Tots",
-      "session": "Session IV (Junior)",
-      "duration": "7 Weeks",
-      "1_day_price": 147,
-      "2_day_price": 274,
+      "1_day_price": 166,
+      "2_day_price": 312,
       "notes": ""
     },
     {
       "clinic": "Red Pre-Rally",
-      "session": "Session I (Junior)",
-      "duration": "6 Weeks",
-      "1_day_price": 149,
-      "2_day_price": 278,
+      "session": "Spring Session (Junior Beginner)",
+      "duration": "5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
       "notes": ""
     },
     {
       "clinic": "Red Pre-Rally",
-      "session": "Session II (Junior)",
-      "duration": "9 Weeks",
-      "1_day_price": 222,
-      "2_day_price": 424,
-      "notes": ""
-    },
-    {
-      "clinic": "Red Pre-Rally",
-      "session": "Session III (Junior)",
+      "session": "Summer Session (Junior Beginner)",
       "duration": "8 Weeks",
-      "1_day_price": 198,
-      "2_day_price": 376,
-      "notes": ""
-    },
-    {
-      "clinic": "Red Pre-Rally",
-      "session": "Session IV (Junior)",
-      "duration": "7 Weeks",
-      "1_day_price": 173,
-      "2_day_price": 326,
+      "1_day_price": 194,
+      "2_day_price": 368,
       "notes": ""
     },
     {
       "clinic": "Red Ball",
-      "session": "Session I (Junior)",
-      "duration": "6 Weeks",
-      "1_day_price": 149,
-      "2_day_price": 278,
+      "session": "Spring Session (Junior Beginner)",
+      "duration": "5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
       "notes": ""
     },
     {
       "clinic": "Red Ball",
-      "session": "Session II (Junior)",
-      "duration": "9 Weeks",
-      "1_day_price": 222,
-      "2_day_price": 424,
-      "notes": ""
-    },
-    {
-      "clinic": "Red Ball",
-      "session": "Session III (Junior)",
+      "session": "Summer Session (Junior Beginner)",
       "duration": "8 Weeks",
-      "1_day_price": 198,
-      "2_day_price": 376,
-      "notes": ""
-    },
-    {
-      "clinic": "Red Ball",
-      "session": "Session IV (Junior)",
-      "duration": "7 Weeks",
-      "1_day_price": 173,
-      "2_day_price": 326,
+      "1_day_price": 194,
+      "2_day_price": 368,
       "notes": ""
     },
     {
       "clinic": "Orange Pre-Rally",
-      "session": "Session I (Junior)",
-      "duration": "6 Weeks",
-      "1_day_price": 149,
-      "2_day_price": 278,
+      "session": "Spring Session (Junior Beginner)",
+      "duration": "5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
       "notes": ""
     },
     {
       "clinic": "Orange Pre-Rally",
-      "session": "Session II (Junior)",
-      "duration": "9 Weeks",
-      "1_day_price": 222,
-      "2_day_price": 424,
-      "notes": ""
-    },
-    {
-      "clinic": "Orange Pre-Rally",
-      "session": "Session III (Junior)",
+      "session": "Summer Session (Junior Beginner)",
       "duration": "8 Weeks",
-      "1_day_price": 198,
-      "2_day_price": 376,
-      "notes": ""
-    },
-    {
-      "clinic": "Orange Pre-Rally",
-      "session": "Session IV (Junior)",
-      "duration": "7 Weeks",
-      "1_day_price": 173,
-      "2_day_price": 326,
+      "1_day_price": 194,
+      "2_day_price": 368,
       "notes": ""
     },
     {
       "clinic": "TEEN 1",
-      "session": "Session I (Junior)",
-      "duration": "6 Weeks",
-      "1_day_price": 149,
-      "2_day_price": 278,
+      "session": "Spring Session (Junior Beginner)",
+      "duration": "5 Weeks",
+      "1_day_price": 122,
+      "2_day_price": 224,
       "notes": ""
     },
     {
       "clinic": "TEEN 1",
-      "session": "Session II (Junior)",
-      "duration": "9 Weeks",
-      "1_day_price": 222,
-      "2_day_price": 424,
-      "notes": ""
-    },
-    {
-      "clinic": "TEEN 1",
-      "session": "Session III (Junior)",
+      "session": "Summer Session (Junior Beginner)",
       "duration": "8 Weeks",
-      "1_day_price": 198,
-      "2_day_price": 376,
-      "notes": ""
-    },
-    {
-      "clinic": "TEEN 1",
-      "session": "Session IV (Junior)",
-      "duration": "7 Weeks",
-      "1_day_price": 173,
-      "2_day_price": 326,
+      "1_day_price": 194,
+      "2_day_price": 368,
       "notes": ""
     },
     {
       "clinic": "Advanced Orange Ball",
-      "session": "Session A",
-      "duration": "6 Weeks",
-      "1_day_price": 228,
-      "2_day_price": 436,
+      "session": "Spring Session (Junior Advanced)",
+      "duration": "5 Weeks",
+      "1_day_price": 185,
+      "2_day_price": 350,
       "notes": ""
     },
     {
-      "clinic": "Advanced Orange Ball",
-      "session": "Session B",
-      "duration": "12 Weeks",
-      "1_day_price": 457,
-      "2_day_price": 894,
-      "notes": ""
-    },
-    {
-      "clinic": "Advanced Orange Ball",
-      "session": "Session C",
-      "duration": "12 Weeks",
-      "1_day_price": 457,
-      "2_day_price": 894,
-      "notes": ""
-    },
-    {
-      "clinic": "Green Ball ",
-      "session": "Session A",
-      "duration": "6 Weeks",
-      "1_day_price": 296,
-      "2_day_price": 572,
-      "notes": ""
-    },
-    {
-      "clinic": "Green Ball ",
-      "session": "Session B",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
-      "notes": ""
-    },
-    {
-      "clinic": "Green Ball ",
-      "session": "Session C",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
+      "clinic": "Green Ball",
+      "session": "Spring Session (Junior Advanced)",
+      "duration": "5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
       "notes": ""
     },
     {
       "clinic": "Yellow Ball",
-      "session": "Session A",
-      "duration": "6 Weeks",
-      "1_day_price": 296,
-      "2_day_price": 572,
-      "notes": ""
-    },
-    {
-      "clinic": "Yellow Ball",
-      "session": "Session B",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
-      "notes": ""
-    },
-    {
-      "clinic": "Yellow Ball",
-      "session": "Session C",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
+      "session": "Spring Session (Junior Advanced)",
+      "duration": "5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
       "notes": ""
     },
     {
       "clinic": "Yellow Ball Open",
-      "session": "Session A",
-      "duration": "6 Weeks",
-      "1_day_price": 296,
-      "2_day_price": 572,
-      "notes": ""
-    },
-    {
-      "clinic": "Yellow Ball Open",
-      "session": "Session B",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
-      "notes": ""
-    },
-    {
-      "clinic": "Yellow Ball Open",
-      "session": "Session C",
-      "duration": "12 Weeks",
-      "1_day_price": 593,
-      "2_day_price": 1166,
+      "session": "Spring Session (Junior Advanced)",
+      "duration": "5 Weeks",
+      "1_day_price": 235,
+      "2_day_price": 450,
       "notes": ""
     },
     {
       "clinic": "Level 1 (Adult)",
-      "session": "Session I (Adult)",
-      "duration": "6 Weeks",
-      "1_day_price": 203,
-      "2_day_price": 386,
+      "session": "Spring Session (Adult)",
+      "duration": "5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
       "notes": ""
     },
     {
       "clinic": "Level 1 (Adult)",
-      "session": "Session II (Adult)",
-      "duration": "9 Weeks",
-      "1_day_price": 305,
-      "2_day_price": 590,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 1 (Adult)",
-      "session": "Session III (Adult)",
+      "session": "Summer Session (Adult)",
       "duration": "8 Weeks",
-      "1_day_price": 271,
-      "2_day_price": 522,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 1 (Adult)",
-      "session": "Session IV (Adult)",
-      "duration": "7 Weeks",
-      "1_day_price": 237,
-      "2_day_price": 454,
+      "1_day_price": 245,
+      "2_day_price": 470,
       "notes": ""
     },
     {
       "clinic": "Level 2 (Adult)",
-      "session": "Session I (Adult)",
-      "duration": "6 Weeks",
-      "1_day_price": 203,
-      "2_day_price": 386,
+      "session": "Spring Session (Adult)",
+      "duration": "5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
       "notes": ""
     },
     {
       "clinic": "Level 2 (Adult)",
-      "session": "Session II (Adult)",
-      "duration": "9 Weeks",
-      "1_day_price": 305,
-      "2_day_price": 590,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 2 (Adult)",
-      "session": "Session III (Adult)",
+      "session": "Summer Session (Adult)",
       "duration": "8 Weeks",
-      "1_day_price": 271,
-      "2_day_price": 522,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 2 (Adult)",
-      "session": "Session IV (Adult)",
-      "duration": "7 Weeks",
-      "1_day_price": 237,
-      "2_day_price": 454,
+      "1_day_price": 245,
+      "2_day_price": 470,
       "notes": ""
     },
     {
       "clinic": "Level 3 (Adult)",
-      "session": "Session I (Adult)",
-      "duration": "6 Weeks",
-      "1_day_price": 203,
-      "2_day_price": 386,
+      "session": "Spring Session (Adult)",
+      "duration": "5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
       "notes": ""
     },
     {
       "clinic": "Level 3 (Adult)",
-      "session": "Session II (Adult)",
-      "duration": "9 Weeks",
-      "1_day_price": 305,
-      "2_day_price": 590,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 3 (Adult)",
-      "session": "Session III (Adult)",
+      "session": "Summer Session (Adult)",
       "duration": "8 Weeks",
-      "1_day_price": 271,
-      "2_day_price": 522,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 3 (Adult)",
-      "session": "Session IV (Adult)",
-      "duration": "7 Weeks",
-      "1_day_price": 237,
-      "2_day_price": 454,
+      "1_day_price": 245,
+      "2_day_price": 470,
       "notes": ""
     },
     {
       "clinic": "Level 4 (Adult)",
-      "session": "Session I (Adult)",
-      "duration": "6 Weeks",
-      "1_day_price": 203,
-      "2_day_price": 386,
+      "session": "Spring Session (Adult)",
+      "duration": "5 Weeks",
+      "1_day_price": 153,
+      "2_day_price": 286,
       "notes": ""
     },
     {
       "clinic": "Level 4 (Adult)",
-      "session": "Session II (Adult)",
-      "duration": "9 Weeks",
-      "1_day_price": 305,
-      "2_day_price": 590,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 4 (Adult)",
-      "session": "Session III (Adult)",
+      "session": "Summer Session (Adult)",
       "duration": "8 Weeks",
-      "1_day_price": 271,
-      "2_day_price": 522,
-      "notes": ""
-    },
-    {
-      "clinic": "Level 4 (Adult)",
-      "session": "Session IV (Adult)",
-      "duration": "7 Weeks",
-      "1_day_price": 237,
-      "2_day_price": 454,
+      "1_day_price": 245,
+      "2_day_price": 470,
       "notes": ""
     },
     {
       "clinic": "Cardio Tennis",
-      "session": "Session I, Mondays Only (Cardio)",
-      "duration": "5 Weeks",
-      "1_day_price": 160,
+      "session": "Spring Session, Mondays Only (Cardio)",
+      "duration": "4 Weeks",
+      "1_day_price": 112,
       "2_day_price": "",
       "notes": ""
     },
     {
       "clinic": "Cardio Tennis",
-      "session": "Session I (Cardio)",
-      "duration": "6 Weeks",
-      "1_day_price": 192,
-      "2_day_price": 364,
+      "session": "Spring Session (Cardio)",
+      "duration": "5 Weeks",
+      "1_day_price": 140,
+      "2_day_price": 260,
       "notes": ""
     },
     {
       "clinic": "Cardio Tennis",
-      "session": "Session II (Cardio)",
-      "duration": "9 Weeks",
-      "1_day_price": 288,
-      "2_day_price": 556,
-      "notes": ""
-    },
-    {
-      "clinic": "Cardio Tennis",
-      "session": "Session III (Cardio)",
+      "session": "Summer Session (Cardio)",
       "duration": "8 Weeks",
       "1_day_price": 224,
       "2_day_price": 428,
-      "notes": ""
-    },
-    {
-      "clinic": "Cardio Tennis",
-      "session": "Session IV (Cardio)",
-      "duration": "7 Weeks",
-      "1_day_price": 256,
-      "2_day_price": 492,
       "notes": ""
     }
   ]
